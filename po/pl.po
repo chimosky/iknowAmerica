@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-11 06:37+0000\n"
-"PO-Revision-Date: 2016-05-21 13:54+0000\n"
-"Last-Translator: Chris <cjl@sugarlabs.org>\n"
+"PO-Revision-Date: 2018-12-15 18:11+0000\n"
+"Last-Translator: KrzysztofJ <krzysztofjesz@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1463838890.000000\n"
+"X-POOTLE-MTIME: 1544897480.000000\n"
 
 # wers zależy od tłumaczenia tytułu
 #. TRANS: "name" option from activity.info file
@@ -157,7 +157,7 @@ msgstr "%s"
 #: conozco.py:515
 #, python-format
 msgid "the %(route)s"
-msgstr ""
+msgstr "%(trasa)s"
 
 #: conozco.py:570
 #, python-format
@@ -171,37 +171,37 @@ msgstr "Naciśnij dowolny klawisz, aby powrócić"
 #: conozco.py:615
 #, python-format
 msgid "Stats of %s"
-msgstr ""
+msgstr "Statystyki z %s"
 
 #: conozco.py:621
 #, python-format
 msgid "Total score: %s"
-msgstr ""
+msgstr "Całkowity wynik: %s"
 
 #: conozco.py:627
 #, python-format
 msgid "Game average score: %s"
-msgstr ""
+msgstr "Średni wynik z gry: %s"
 
 #: conozco.py:633
 #, python-format
 msgid "Times using Explore Mode: %s"
-msgstr ""
+msgstr "Czasy w Trybie Przeglądania: %s"
 
 #: conozco.py:639
 #, python-format
 msgid "Places Explored: %s"
-msgstr ""
+msgstr "Miejsca Zbadane: %s"
 
 #: conozco.py:645
 #, python-format
 msgid "Times using Game Mode: %s"
-msgstr ""
+msgstr "Liczba użycia Trybu Gry: %s"
 
 #: conozco.py:653
 #, python-format
 msgid "Total time: %s minutes"
-msgstr ""
+msgstr "Całkowity czas: %s minut"
 
 #: conozco.py:691
 msgid "You have chosen the map "
@@ -610,9 +610,8 @@ msgid "Metropolitana"
 msgstr "Metropolitana"
 
 #: recursos/0chile/datos/levels.py:17 recursos/0chile/datos/0chile.py:14
-#, fuzzy
 msgid "Libertador General Bernardo O'Higgins"
-msgstr "Libertador General Bernardo O'Higgins"
+msgstr "Wyzwoliciel General Bernardo O'Higgins"
 
 #: recursos/0chile/datos/levels.py:17 recursos/0chile/datos/levels.py:18
 #: recursos/0chile/datos/levels.py:19 recursos/0chile/datos/levels.py:41
@@ -1377,7 +1376,7 @@ msgstr "Prezydent:"
 
 #: recursos/0chile/datos/0chile.py:49
 msgid "Michelle Bachelet Jeria"
-msgstr ""
+msgstr "Michelle Bachelet Jeria"
 
 #: recursos/0chile/datos/0chile.py:50
 #: recursos/0venezuela/datos/0venezuela.py:125
@@ -1501,7 +1500,7 @@ msgstr "Powierzchnia:"
 
 #: recursos/0chile/datos/0chile.py:53
 msgid "756.096"
-msgstr ""
+msgstr "756.096"
 
 #: recursos/0chile/datos/0chile.py:53
 #: recursos/0venezuela/datos/0venezuela.py:128
@@ -1530,11 +1529,11 @@ msgstr ""
 #: recursos/0belice/datos/0belice.py:102
 #: recursos/0bolivia/datos/0bolivia.py:110
 msgid "km²"
-msgstr ""
+msgstr "km²"
 
 #: recursos/0chile/datos/0chile.py:53
 msgid "38th"
-msgstr ""
+msgstr "38"
 
 #: recursos/0chile/datos/0chile.py:54
 #: recursos/0venezuela/datos/0venezuela.py:129
@@ -1567,11 +1566,11 @@ msgstr "Liczba ludności:"
 
 #: recursos/0chile/datos/0chile.py:54
 msgid "18.006.407"
-msgstr ""
+msgstr "18.006.407"
 
 #: recursos/0chile/datos/0chile.py:54
 msgid "62nd"
-msgstr ""
+msgstr "62"
 
 #: recursos/0chile/datos/0chile.py:55
 #: recursos/0venezuela/datos/0venezuela.py:130
@@ -1629,11 +1628,11 @@ msgstr "PKB:"
 #: recursos/0belice/datos/0belice.py:104
 #: recursos/0bolivia/datos/0bolivia.py:112
 msgid "USD"
-msgstr ""
+msgstr "Dolary Amerykańskie"
 
 #: recursos/0chile/datos/0chile.py:55
 msgid "410.277"
-msgstr ""
+msgstr "410.277"
 
 #: recursos/0chile/datos/0chile.py:55
 #: recursos/0venezuela/datos/0venezuela.py:130
@@ -1662,11 +1661,11 @@ msgstr ""
 #: recursos/0belice/datos/0belice.py:104
 #: recursos/0bolivia/datos/0bolivia.py:112
 msgid "billion"
-msgstr ""
+msgstr "miliard"
 
 #: recursos/0chile/datos/0chile.py:55
 msgid "42nd"
-msgstr ""
+msgstr "42"
 
 #: recursos/0chile/datos/0chile.py:56
 #: recursos/0venezuela/datos/0venezuela.py:131
@@ -1702,15 +1701,15 @@ msgstr "Wskaźnik rozwoju społecznego:"
 #: recursos/0canada/datos/0canada.py:122
 #: recursos/0eunidos/datos/0eunidos.py:188 recursos/0prico/datos/0prico.py:195
 msgid "Very High"
-msgstr ""
+msgstr "Bardzo Wysoko"
 
 #: recursos/0chile/datos/0chile.py:56
 msgid "0,832"
-msgstr ""
+msgstr "0,832"
 
 #: recursos/0chile/datos/0chile.py:56
 msgid "42th"
-msgstr ""
+msgstr "42"
 
 #: recursos/0chile/datos/0chile.py:57
 #: recursos/0venezuela/datos/0venezuela.py:132
@@ -1776,7 +1775,7 @@ msgstr "Peso"
 #: recursos/0belice/datos/0belice.py:107
 #: recursos/0bolivia/datos/0bolivia.py:115
 msgid "Updated:"
-msgstr ""
+msgstr "Zaktualizowano:"
 
 #: recursos/0chile/datos/0chile.py:58
 #: recursos/0venezuela/datos/0venezuela.py:133
@@ -1804,7 +1803,7 @@ msgstr ""
 #: recursos/0belice/datos/0belice.py:107
 #: recursos/0bolivia/datos/0bolivia.py:115
 msgid "5 of april of 2016"
-msgstr ""
+msgstr "5 Kwietnia 2016 roku"
 
 #: recursos/0venezuela/datos/explorations.py:6
 #: recursos/0venezuela/datos/levels.py:7
@@ -3824,9 +3823,8 @@ msgstr "San Juan de Manapiare"
 
 #: recursos/0venezuela/datos/levels.py:117
 #: recursos/0venezuela/datos/0venezuela.py:88
-#, fuzzy
 msgid "Santa Elena de Uairén"
-msgstr "Sta. Elena de Uairén"
+msgstr "Santa Elena de Uairén"
 
 #: recursos/0venezuela/datos/levels.py:118
 #: recursos/0venezuela/datos/0venezuela.py:89
@@ -3914,7 +3912,7 @@ msgstr "rzeka Cuyuni"
 #: recursos/0venezuela/datos/levels.py:139
 #: recursos/0venezuela/datos/0venezuela.py:104
 msgid "Reservoir of Sura"
-msgstr ""
+msgstr "Zbiornik Sura"
 
 #: recursos/0venezuela/datos/levels.py:140
 #: recursos/0venezuela/datos/0venezuela.py:105
@@ -3922,8 +3920,9 @@ msgid "Guarico River"
 msgstr "rzeka Guarico"
 
 #: recursos/0venezuela/datos/levels.py:141
+#, fuzzy
 msgid "Reservoir of Guarico"
-msgstr ""
+msgstr "Zbiornik Guarico"
 
 #: recursos/0venezuela/datos/levels.py:142
 #: recursos/0venezuela/datos/0venezuela.py:107
@@ -4087,7 +4086,7 @@ msgstr "Wyspa Margarita"
 
 #: recursos/0venezuela/datos/0venezuela.py:106
 msgid "Reservoir de Guarico"
-msgstr ""
+msgstr "Zbiornik Guarico"
 
 #: recursos/0venezuela/datos/0venezuela.py:120
 msgid "(10º30' N - 66º58' W)"
@@ -4100,7 +4099,7 @@ msgstr "Republika federalna"
 
 #: recursos/0venezuela/datos/0venezuela.py:123
 msgid "Nicolás Maduro"
-msgstr ""
+msgstr "Mikołaj Maduro"
 
 #: recursos/0venezuela/datos/0venezuela.py:124
 #: recursos/0dominicana/datos/0dominicana.py:117
@@ -4123,7 +4122,7 @@ msgstr "Wiceprezydent:"
 
 #: recursos/0venezuela/datos/0venezuela.py:124
 msgid "Aristóbulo Istúriz"
-msgstr ""
+msgstr "Aristóbulo Istúriz"
 
 #: recursos/0venezuela/datos/0venezuela.py:126
 msgid "5 of july of 1811"
@@ -4135,27 +4134,27 @@ msgstr "30 marca 1845"
 
 #: recursos/0venezuela/datos/0venezuela.py:128
 msgid "916.445"
-msgstr ""
+msgstr "916.445"
 
 #: recursos/0venezuela/datos/0venezuela.py:128
 msgid "33th"
-msgstr ""
+msgstr "33"
 
 #: recursos/0venezuela/datos/0venezuela.py:129
 msgid "30.933.000"
-msgstr ""
+msgstr "30.933.000"
 
 #: recursos/0venezuela/datos/0venezuela.py:129
 msgid "44th"
-msgstr ""
+msgstr "44"
 
 #: recursos/0venezuela/datos/0venezuela.py:130
 msgid "131.855"
-msgstr ""
+msgstr "131.855"
 
 #: recursos/0venezuela/datos/0venezuela.py:130
 msgid "33rd"
-msgstr ""
+msgstr "33"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
 #: recursos/0dominicana/datos/0dominicana.py:123
@@ -4169,15 +4168,15 @@ msgstr ""
 #: recursos/0ecuador/datos/0ecuador.py:151
 #: recursos/0belice/datos/0belice.py:105
 msgid "High"
-msgstr ""
+msgstr "Wysoko(i)"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
 msgid "0,762"
-msgstr ""
+msgstr "0,762"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
 msgid "71st"
-msgstr ""
+msgstr "71"
 
 #: recursos/0dominicana/datos/explorations.py:6
 #: recursos/0dominicana/datos/levels.py:7
@@ -4674,7 +4673,7 @@ msgstr "Wyspa Saona"
 
 #: recursos/0dominicana/datos/0dominicana.py:98
 msgid "Lake Enriquillo River"
-msgstr ""
+msgstr "Jezioro Enriquillo"
 
 #: recursos/0dominicana/datos/0dominicana.py:113
 msgid "(18º28' N - 69º54' W)"
@@ -4682,11 +4681,11 @@ msgstr "(18º28' N - 69º54' W)"
 
 #: recursos/0dominicana/datos/0dominicana.py:116
 msgid "Danilo Medina"
-msgstr ""
+msgstr "Danilo Medina"
 
 #: recursos/0dominicana/datos/0dominicana.py:117
 msgid "Margarita Cedeño"
-msgstr ""
+msgstr "Margarita Cedeño"
 
 #: recursos/0dominicana/datos/0dominicana.py:118
 msgid "1844 (of Haiti)"
@@ -4698,40 +4697,40 @@ msgstr "1865 (od Hiszpanii)"
 
 #: recursos/0dominicana/datos/0dominicana.py:120
 msgid "48.442"
-msgstr ""
+msgstr "48.442"
 
 #: recursos/0dominicana/datos/0dominicana.py:120
 #: recursos/0honduras/datos/0honduras.py:137
 msgid "131st"
-msgstr ""
+msgstr "131"
 
 #: recursos/0dominicana/datos/0dominicana.py:121
 msgid "10.090.000"
-msgstr ""
+msgstr "10.090.000"
 
 #: recursos/0dominicana/datos/0dominicana.py:121
 #: recursos/0costarica/datos/0costarica.py:158
 msgid "80th"
-msgstr ""
+msgstr "80"
 
 #: recursos/0dominicana/datos/0dominicana.py:122
 msgid "66.575"
-msgstr ""
+msgstr "66.575"
 
 #: recursos/0dominicana/datos/0dominicana.py:122
 #: recursos/0costarica/datos/0costarica.py:159
 msgid "69th"
-msgstr ""
+msgstr "69"
 
 #: recursos/0dominicana/datos/0dominicana.py:123
 #: recursos/0belice/datos/0belice.py:105
 msgid "0,715"
-msgstr ""
+msgstr "0,715"
 
 #: recursos/0dominicana/datos/0dominicana.py:123
 #: recursos/0belice/datos/0belice.py:105
 msgid "101st"
-msgstr ""
+msgstr "101"
 
 #: recursos/0tytobago/datos/0tytobago.py:8
 #: recursos/0tytobago/datos/levels.py:11
@@ -4814,9 +4813,8 @@ msgstr "Arouca"
 #: recursos/0tytobago/datos/levels.py:32 recursos/0acentral/datos/levels.py:46
 #: recursos/0acentral/datos/levels.py:76
 #: recursos/0acentral/datos/0acentral.py:43
-#, fuzzy
 msgid "Basse-Terre"
-msgstr "Basse Terre"
+msgstr "Basse-Terre"
 
 #: recursos/0tytobago/datos/0tytobago.py:28
 #: recursos/0tytobago/datos/levels.py:33
@@ -4991,7 +4989,7 @@ msgstr "Republika parlamentarna"
 
 #: recursos/0tytobago/datos/0tytobago.py:76
 msgid "Anthony Carmona"
-msgstr ""
+msgstr "Antoni Carmona"
 
 #: recursos/0tytobago/datos/0tytobago.py:77 recursos/0peru/datos/0peru.py:138
 #: recursos/0haiti/datos/0haiti.py:103
@@ -5000,7 +4998,7 @@ msgstr "Premier:"
 
 #: recursos/0tytobago/datos/0tytobago.py:77
 msgid "Keith Rowley"
-msgstr ""
+msgstr "Keith Rowley"
 
 #: recursos/0tytobago/datos/0tytobago.py:78
 #: recursos/0canada/datos/0canada.py:116
@@ -5015,36 +5013,36 @@ msgstr "31 sierpnia 1962"
 
 #: recursos/0tytobago/datos/0tytobago.py:80
 msgid "5.128"
-msgstr ""
+msgstr "5.128"
 
 #: recursos/0tytobago/datos/0tytobago.py:80
 msgid "172th"
-msgstr ""
+msgstr "172"
 
 #: recursos/0tytobago/datos/0tytobago.py:81
 msgid "1.223.916"
-msgstr ""
+msgstr "1.223.916"
 
 #: recursos/0tytobago/datos/0tytobago.py:81
 msgid "159th"
-msgstr ""
+msgstr "159"
 
 #: recursos/0tytobago/datos/0tytobago.py:82
 msgid "28.788"
-msgstr ""
+msgstr "28.788"
 
 #: recursos/0tytobago/datos/0tytobago.py:82
 msgid "100th"
-msgstr ""
+msgstr "100"
 
 #: recursos/0tytobago/datos/0tytobago.py:83
 msgid "0,772"
-msgstr ""
+msgstr "0,772"
 
 #: recursos/0tytobago/datos/0tytobago.py:83 recursos/0cuba/datos/0cuba.py:92
 #: recursos/0ecuador/datos/0ecuador.py:150
 msgid "64th"
-msgstr ""
+msgstr "64"
 
 #: recursos/0tytobago/datos/0tytobago.py:84
 msgid "Trinidad and Tobago dollar"
@@ -5090,9 +5088,8 @@ msgstr "Misiones"
 #: recursos/0argentina/datos/levels.py:78
 #: recursos/0argentina/datos/0argentina.py:13
 #: recursos/0argentina/datos/0argentina.py:41
-#, fuzzy
 msgid "Catamarca"
-msgstr "Cajamarca"
+msgstr "Catamarca"
 
 #: recursos/0argentina/datos/levels.py:17
 msgid "Sgo. del Estero"
@@ -5187,9 +5184,8 @@ msgstr "Buenos Aires"
 
 #: recursos/0argentina/datos/levels.py:27
 #: recursos/0argentina/datos/0argentina.py:24
-#, fuzzy
 msgid "La Pampa"
-msgstr "La Palma"
+msgstr "Pampa"
 
 #: recursos/0argentina/datos/levels.py:28
 #: recursos/0argentina/datos/0argentina.py:25
@@ -5208,7 +5204,7 @@ msgstr "Neuquén"
 #: recursos/0argentina/datos/levels.py:30
 #: recursos/0argentina/datos/0argentina.py:27
 msgid "Chubut"
-msgstr ""
+msgstr "Chubut"
 
 #: recursos/0argentina/datos/levels.py:31
 #: recursos/0argentina/datos/0argentina.py:28
@@ -5254,9 +5250,8 @@ msgstr "Posadas"
 #: recursos/0argentina/datos/levels.py:54
 #: recursos/0argentina/datos/levels.py:87
 #: recursos/0argentina/datos/0argentina.py:50
-#, fuzzy
 msgid "Río Gallegos"
-msgstr "Rio Gallegos"
+msgstr "Río Gallegos"
 
 #: recursos/0argentina/datos/levels.py:55
 #: recursos/0argentina/datos/levels.py:88
@@ -5350,9 +5345,8 @@ msgstr "General Villegas"
 #: recursos/0argentina/datos/levels.py:106
 #: recursos/0argentina/datos/0argentina.py:72
 #: recursos/0peru/datos/levels.py:23 recursos/0peru/datos/0peru.py:20
-#, fuzzy
 msgid "Junín"
-msgstr "Junin"
+msgstr "Junín"
 
 #: recursos/0argentina/datos/levels.py:107
 #: recursos/0argentina/datos/0argentina.py:73
@@ -5386,7 +5380,7 @@ msgstr "Puerto Deseado"
 #: recursos/0argentina/datos/levels.py:112
 #: recursos/0argentina/datos/0argentina.py:78
 msgid "Puerto Santa Cruz"
-msgstr ""
+msgstr "Puerto Santa Cruz"
 
 #: recursos/0argentina/datos/levels.py:113
 #: recursos/0argentina/datos/0argentina.py:79
@@ -5623,7 +5617,7 @@ msgstr ""
 #: recursos/0argentina/datos/0argentina.py:122
 #: recursos/0peru/datos/0peru.py:143
 msgid "40th"
-msgstr ""
+msgstr "40"
 
 #: recursos/0canada/datos/0canada.py:5 recursos/0eunidos/datos/0eunidos.py:57
 #: recursos/0adelnorte/datos/0adelnorte.py:9
@@ -6149,36 +6143,36 @@ msgstr "11 grudnia 1931 roku"
 
 #: recursos/0canada/datos/0canada.py:119
 msgid "9.984.670"
-msgstr ""
+msgstr "9.984.670"
 
 #: recursos/0canada/datos/0canada.py:119
 #: recursos/0eunidos/datos/0eunidos.py:187
 msgid "2nd"
-msgstr ""
+msgstr "2"
 
 #: recursos/0canada/datos/0canada.py:120
 msgid "36.048.521"
-msgstr ""
+msgstr "36.048.521"
 
 #: recursos/0canada/datos/0canada.py:120
 msgid "37th"
-msgstr ""
+msgstr "37"
 
 #: recursos/0canada/datos/0canada.py:121
 msgid "1628.000"
-msgstr ""
+msgstr "1628.000"
 
 #: recursos/0canada/datos/0canada.py:121
 msgid "15th"
-msgstr ""
+msgstr "15"
 
 #: recursos/0canada/datos/0canada.py:122
 msgid "0,913"
-msgstr ""
+msgstr "0,913"
 
 #: recursos/0canada/datos/0canada.py:122 recursos/0brasil/datos/0brasil.py:148
 msgid "9th"
-msgstr ""
+msgstr "9"
 
 #: recursos/0canada/datos/0canada.py:123
 msgid "Canadian dollar"
@@ -6277,7 +6271,6 @@ msgstr "Isla de la Juventud"
 
 #: recursos/0cuba/datos/0cuba.py:22 recursos/0acentral/datos/levels.py:26
 #: recursos/0acentral/datos/0acentral.py:27
-#, fuzzy
 msgid "Cayman Islands"
 msgstr "Kajmany"
 
@@ -6521,7 +6514,7 @@ msgstr ""
 
 #: recursos/0cuba/datos/0cuba.py:93
 msgid "67th"
-msgstr ""
+msgstr "67"
 
 #: recursos/0cuba/datos/0cuba.py:94
 msgid "Cuban peso"
@@ -6562,16 +6555,14 @@ msgstr "Departamenty"
 #: recursos/0haiti/datos/explorations.py:13 recursos/0haiti/datos/levels.py:25
 #: recursos/0bolivia/datos/explorations.py:13
 #: recursos/0bolivia/datos/levels.py:25
-#, fuzzy
 msgid "Departmental capitals"
 msgstr "Stolice departamentów"
 
 #: recursos/0honduras/datos/levels.py:11
 #: recursos/0honduras/datos/0honduras.py:8
 #: recursos/0uruguay/datos/levels.py:70 recursos/0uruguay/datos/0uruguay.py:55
-#, fuzzy
 msgid "Atlántida"
-msgstr "Atlántico"
+msgstr "Atlántida"
 
 #: recursos/0honduras/datos/levels.py:12
 #: recursos/0honduras/datos/0honduras.py:9 recursos/0panama/datos/levels.py:13
@@ -6587,37 +6578,36 @@ msgstr "Colón"
 #: recursos/0honduras/datos/0honduras.py:10
 #: recursos/0honduras/datos/0honduras.py:38
 msgid "Comayagua"
-msgstr ""
+msgstr "Comayagua"
 
 #: recursos/0honduras/datos/levels.py:14 recursos/0honduras/datos/levels.py:90
 #: recursos/0honduras/datos/0honduras.py:11
 #: recursos/0honduras/datos/0honduras.py:66
-#, fuzzy
 msgid "Copán"
-msgstr "Cobán"
+msgstr "Copán"
 
 #: recursos/0honduras/datos/levels.py:15
 #: recursos/0honduras/datos/0honduras.py:12
 msgid "Cortés"
-msgstr ""
+msgstr "Cortés"
 
 #: recursos/0honduras/datos/levels.py:16 recursos/0honduras/datos/levels.py:38
 #: recursos/0honduras/datos/levels.py:65
 #: recursos/0honduras/datos/0honduras.py:13
 #: recursos/0honduras/datos/0honduras.py:37
 msgid "Choluteca"
-msgstr ""
+msgstr "Choluteca"
 
 #: recursos/0honduras/datos/levels.py:17 recursos/0honduras/datos/levels.py:95
 #: recursos/0honduras/datos/0honduras.py:14
 #: recursos/0honduras/datos/0honduras.py:71
 msgid "El Paraíso"
-msgstr ""
+msgstr "El Paraíso"
 
 #: recursos/0honduras/datos/levels.py:18
 #: recursos/0honduras/datos/0honduras.py:15
 msgid "Francisco Morazán"
-msgstr ""
+msgstr "Francisco Morazán"
 
 #: recursos/0honduras/datos/levels.py:19
 #: recursos/0honduras/datos/0honduras.py:16
@@ -6705,23 +6695,22 @@ msgstr "La Ceiba"
 #: recursos/0honduras/datos/0honduras.py:41
 #: recursos/0prico/datos/0prico.py:148 recursos/0prico/datos/levels.py:200
 msgid "La Esperanza"
-msgstr ""
+msgstr "La Esperanza"
 
 #: recursos/0honduras/datos/levels.py:44 recursos/0honduras/datos/levels.py:71
 #: recursos/0honduras/datos/0honduras.py:43
-#, fuzzy
 msgid "Manto"
-msgstr "Manú"
+msgstr "Manto"
 
 #: recursos/0honduras/datos/levels.py:45 recursos/0honduras/datos/levels.py:72
 #: recursos/0honduras/datos/0honduras.py:44
 msgid "Nacaome"
-msgstr ""
+msgstr "Nacaome"
 
 #: recursos/0honduras/datos/levels.py:46 recursos/0honduras/datos/levels.py:73
 #: recursos/0honduras/datos/0honduras.py:45
 msgid "Nueva Ocotepeque"
-msgstr ""
+msgstr "Nowy Ocotepeque"
 
 #: recursos/0honduras/datos/levels.py:47 recursos/0honduras/datos/levels.py:74
 #: recursos/0honduras/datos/0honduras.py:46
@@ -6735,7 +6724,7 @@ msgstr "Puerto Lempira"
 #: recursos/0honduras/datos/0honduras.py:47
 #: recursos/0honduras/datos/0honduras.py:88
 msgid "Roatán"
-msgstr ""
+msgstr "Roatán"
 
 #: recursos/0honduras/datos/levels.py:49 recursos/0honduras/datos/levels.py:76
 #: recursos/0honduras/datos/0honduras.py:48
@@ -6747,22 +6736,22 @@ msgstr "San Pedro Sula"
 #: recursos/0honduras/datos/levels.py:50 recursos/0honduras/datos/levels.py:77
 #: recursos/0honduras/datos/0honduras.py:49
 msgid "Santa Bárbara"
-msgstr ""
+msgstr "Santa Barbara"
 
 #: recursos/0honduras/datos/levels.py:51 recursos/0honduras/datos/levels.py:78
 #: recursos/0honduras/datos/0honduras.py:50
 msgid "Santa Rosa de Copán"
-msgstr ""
+msgstr "Santa Rosa de Copán"
 
 #: recursos/0honduras/datos/levels.py:54 recursos/0honduras/datos/levels.py:81
 #: recursos/0honduras/datos/0honduras.py:53
 msgid "Yuscarán"
-msgstr ""
+msgstr "Yuscarán"
 
 #: recursos/0honduras/datos/levels.py:82
 #: recursos/0honduras/datos/0honduras.py:58
 msgid "Amapala"
-msgstr ""
+msgstr "Amapala"
 
 #: recursos/0honduras/datos/levels.py:83
 #: recursos/0honduras/datos/0honduras.py:59
@@ -6813,7 +6802,7 @@ msgstr ""
 #: recursos/0honduras/datos/levels.py:94
 #: recursos/0honduras/datos/0honduras.py:70
 msgid "El Negrito"
-msgstr ""
+msgstr "El Negrito"
 
 #: recursos/0honduras/datos/levels.py:96
 #: recursos/0honduras/datos/0honduras.py:72
@@ -6825,17 +6814,17 @@ msgstr "El Progreso"
 #: recursos/0honduras/datos/levels.py:97
 #: recursos/0honduras/datos/0honduras.py:73
 msgid "El Triunfo"
-msgstr ""
+msgstr "El Triunfo"
 
 #: recursos/0honduras/datos/levels.py:98
 #: recursos/0honduras/datos/0honduras.py:74
 msgid "Guarita"
-msgstr ""
+msgstr "Guarita"
 
 #: recursos/0honduras/datos/levels.py:100
 #: recursos/0honduras/datos/0honduras.py:76
 msgid "La Virtud"
-msgstr ""
+msgstr "La Virtud"
 
 #: recursos/0honduras/datos/levels.py:101
 #: recursos/0honduras/datos/0honduras.py:77
@@ -12979,6 +12968,11 @@ msgstr ""
 msgid "Lelydorp"
 msgstr ""
 
+#: recursos/0surinam/datos/0surinam.py:28 recursos/0surinam/datos/levels.py:34
+#: recursos/0surinam/datos/levels.py:52
+msgid "Nieuw Amsterdam"
+msgstr ""
+
 #: recursos/0surinam/datos/0surinam.py:29 recursos/0surinam/datos/levels.py:35
 #: recursos/0surinam/datos/levels.py:53
 msgid "Nieuw Nickerie"
@@ -13266,11 +13260,89 @@ msgstr ""
 msgid "Macouria"
 msgstr ""
 
-#: recursos/0nicaragua/datos/0nicaragua.py:117
-#: recursos/0nicaragua/datos/levels.py:151
+#: recursos/0guayanafr/datos/0guayanafr.py:30
+#: recursos/0guayanafr/datos/levels.py:23
 #, fuzzy
-msgid "Bocay River"
-msgstr "rzeka Soco"
+msgid "Mana"
+msgstr "Manú"
+
+#: recursos/0guayanafr/datos/0guayanafr.py:31
+#: recursos/0guayanafr/datos/levels.py:24
+msgid "Maripasoula"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:32
+#: recursos/0guayanafr/datos/levels.py:25
+msgid "Matoury"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:33
+#: recursos/0guayanafr/datos/levels.py:26
+msgid "Montsinéry"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:34
+#: recursos/0guayanafr/datos/levels.py:27
+msgid "Ouanary"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:35
+#: recursos/0guayanafr/datos/levels.py:28
+msgid "Rémire"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:37
+#: recursos/0guayanafr/datos/levels.py:30
+msgid "Roura"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:38
+#: recursos/0guayanafr/datos/levels.py:31
+#, fuzzy
+msgid "Saint Jean"
+msgstr "Saint John's"
+
+#: recursos/0guayanafr/datos/0guayanafr.py:39
+#: recursos/0guayanafr/datos/levels.py:32
+msgid "Saint-Elie"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:40
+#: recursos/0guayanafr/datos/levels.py:33
+#, fuzzy
+msgid "Saint-Georges"
+msgstr "Saint George"
+
+#: recursos/0guayanafr/datos/0guayanafr.py:41
+#: recursos/0guayanafr/datos/levels.py:34
+msgid "Saul"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:42
+#: recursos/0guayanafr/datos/levels.py:35
+msgid "Sinnamary"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:43
+#: recursos/0guayanafr/datos/levels.py:36
+msgid "Tonate"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:47
+#: recursos/0guayanafr/datos/levels.py:46
+#, fuzzy
+msgid "Mana River"
+msgstr "rzeka Haina"
+
+#: recursos/0guayanafr/datos/0guayanafr.py:48
+#: recursos/0guayanafr/datos/levels.py:47
+msgid "Sinamary River"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:49
+#: recursos/0guayanafr/datos/levels.py:48
+msgid "Comté River"
+msgstr ""
 
 #: recursos/0guayanafr/datos/0guayanafr.py:50
 #: recursos/0guayanafr/datos/levels.py:49
@@ -13306,12 +13378,525 @@ msgstr "rzeka Caroni"
 msgid "Tanpok River"
 msgstr "rzeka Napo"
 
+#: recursos/0guayanafr/datos/0guayanafr.py:58
+#: recursos/0guayanafr/datos/levels.py:57
+msgid "Abounamy River"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:66
+msgid "(4º56' N - 52º19' W)"
+msgstr "(4º56' N - 52º19' W)"
+
+#: recursos/0guayanafr/datos/0guayanafr.py:68
+msgid "Overseas department"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:69
+#: recursos/0haiti/datos/0haiti.py:104
+msgid "from France"
+msgstr "od Francji"
+
+#: recursos/0guayanafr/datos/0guayanafr.py:70
+msgid "86.504"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:70
+msgid "112th"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:71
+msgid "259.109"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:71
+msgid "186th"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:72
+msgid "1.151"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:72
+msgid "181th"
+msgstr ""
+
+#: recursos/0guayanafr/datos/0guayanafr.py:74
+msgid "Euro"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:8
+#: recursos/0nicaragua/datos/0nicaragua.py:34
+#: recursos/0nicaragua/datos/levels.py:11
+#: recursos/0nicaragua/datos/levels.py:39
+#: recursos/0nicaragua/datos/levels.py:65
+msgid "Boaco"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:9
+#: recursos/0nicaragua/datos/levels.py:12
+msgid "Carazo"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:10
+#: recursos/0nicaragua/datos/levels.py:13
+msgid "Chinadega"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:11
+#: recursos/0nicaragua/datos/levels.py:14
+msgid "Chontales"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:12
+#: recursos/0nicaragua/datos/0nicaragua.py:36
+#: recursos/0nicaragua/datos/levels.py:15
+#: recursos/0nicaragua/datos/levels.py:41
+#: recursos/0nicaragua/datos/levels.py:67
+msgid "Estelí"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:14
+#: recursos/0nicaragua/datos/0nicaragua.py:38
+#: recursos/0nicaragua/datos/levels.py:17
+#: recursos/0nicaragua/datos/levels.py:43
+#: recursos/0nicaragua/datos/levels.py:69
+msgid "Jinotega"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:15
+#: recursos/0nicaragua/datos/0nicaragua.py:41
+#: recursos/0nicaragua/datos/levels.py:18
+#: recursos/0nicaragua/datos/levels.py:46
+#: recursos/0nicaragua/datos/levels.py:72
+msgid "León"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:16
+#: recursos/0nicaragua/datos/levels.py:19
+msgid "Madriz"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:18
+#: recursos/0nicaragua/datos/0nicaragua.py:42
+#: recursos/0nicaragua/datos/levels.py:21
+#: recursos/0nicaragua/datos/levels.py:47
+#: recursos/0nicaragua/datos/levels.py:73
+msgid "Masaya"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:20
+#: recursos/0nicaragua/datos/levels.py:23
+msgid "Nueva Segovia"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:21
+#: recursos/0nicaragua/datos/levels.py:24
+msgid "Río San Juan"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:22
+#: recursos/0nicaragua/datos/0nicaragua.py:46
+#: recursos/0nicaragua/datos/levels.py:25
+#: recursos/0nicaragua/datos/levels.py:51
+#: recursos/0nicaragua/datos/levels.py:77
+msgid "Rivas"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:23
+#: recursos/0nicaragua/datos/levels.py:26
+msgid "Atlántico Norte"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:24
+#: recursos/0nicaragua/datos/levels.py:27
+msgid "Atlántico Sur"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:27
+msgid "Is. del Maíz"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:28
+msgid "Cayos Miskitos"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:35
+#: recursos/0nicaragua/datos/levels.py:40
+#: recursos/0nicaragua/datos/levels.py:66
+msgid "Chinandega"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:39
+#: recursos/0nicaragua/datos/levels.py:44
+#: recursos/0nicaragua/datos/levels.py:70
+msgid "Jinotepe"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:40
+#: recursos/0nicaragua/datos/levels.py:45
+#: recursos/0nicaragua/datos/levels.py:71
+msgid "Juigalpa"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:44
+#: recursos/0nicaragua/datos/levels.py:49
+#: recursos/0nicaragua/datos/levels.py:75
+msgid "Ocotal"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:48
+#: recursos/0nicaragua/datos/levels.py:53
+#: recursos/0nicaragua/datos/levels.py:79
+msgid "Somoto"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:52
+#: recursos/0nicaragua/datos/levels.py:80
+msgid "Acoyapa"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:53
+#: recursos/0nicaragua/datos/levels.py:81
+#, fuzzy
+msgid "Alta Gracia"
+msgstr "Altagracia"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:54
+#: recursos/0nicaragua/datos/levels.py:82
+msgid "Bonanza"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:55
+#: recursos/0nicaragua/datos/levels.py:83
+msgid "Camoapa"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:56
+#: recursos/0nicaragua/datos/levels.py:84
+#, fuzzy
+msgid "Casares"
+msgstr "Castries"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:57
+#: recursos/0nicaragua/datos/levels.py:85
+msgid "Colonia Nueva Guinea"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:58
+#: recursos/0nicaragua/datos/levels.py:86
+#, fuzzy
+msgid "Com Island"
+msgstr "Wyspa Com"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:59
+#: recursos/0nicaragua/datos/levels.py:87
+msgid "Condega"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:60
+#: recursos/0nicaragua/datos/levels.py:88
+msgid "Corinto"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:61
+#: recursos/0nicaragua/datos/levels.py:89
+msgid "El Bluff"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:62
+#: recursos/0nicaragua/datos/levels.py:90
+msgid "El Carmen"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:63
+#: recursos/0nicaragua/datos/levels.py:91
+msgid "El Sauce"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:65
+#: recursos/0nicaragua/datos/levels.py:93
+msgid "La Constancia"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:66
+#: recursos/0nicaragua/datos/levels.py:94
+msgid "La Cruz de Río Grande"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:67
+#: recursos/0nicaragua/datos/levels.py:95
+msgid "La Rosita"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:68
+#: recursos/0nicaragua/datos/levels.py:96
+msgid "Larreynaga"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:69
+#: recursos/0nicaragua/datos/levels.py:97
+msgid "Leimus"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:70
+#: recursos/0nicaragua/datos/levels.py:98
+msgid "Limbaica"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:71
+#: recursos/0nicaragua/datos/levels.py:99
+msgid "Makantaca"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:72
+#: recursos/0nicaragua/datos/levels.py:100
+msgid "Masachapa"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:73
+#: recursos/0nicaragua/datos/levels.py:101
+msgid "Morrito"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:74
+#: recursos/0nicaragua/datos/levels.py:102
+msgid "Muy Muy"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:75
+#: recursos/0nicaragua/datos/levels.py:103
+msgid "Nandaime"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:76
+#: recursos/0nicaragua/datos/levels.py:104
+#, fuzzy
+msgid "Peñas Blancas"
+msgstr "Piedras Blancas"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:77
+#: recursos/0nicaragua/datos/levels.py:105
+msgid "Poneloya"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:78
+#: recursos/0nicaragua/datos/levels.py:106
+#: recursos/0adelsur/datos/levels.py:108
+#: recursos/0adelsur/datos/0adelsur.py:87
+#: recursos/0bolivia/datos/0bolivia.py:12
+#: recursos/0bolivia/datos/0bolivia.py:30 recursos/0bolivia/datos/levels.py:15
+#: recursos/0bolivia/datos/levels.py:34 recursos/0bolivia/datos/levels.py:52
+msgid "Potosí"
+msgstr "Potosí"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:79
+#: recursos/0nicaragua/datos/levels.py:107
+msgid "Prinzapolka"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:80
+#: recursos/0nicaragua/datos/levels.py:108
+msgid "Puerto Sandino"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:81
+#: recursos/0nicaragua/datos/levels.py:109
+#: recursos/0belice/datos/0belice.py:26 recursos/0belice/datos/levels.py:31
+#: recursos/0belice/datos/levels.py:47
+msgid "Punta Gorda"
+msgstr "Punta Gorda"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:82
+#: recursos/0nicaragua/datos/levels.py:110
+msgid "Quilalí"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:84
+#: recursos/0nicaragua/datos/levels.py:112
+msgid "Rama"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:85
+#: recursos/0nicaragua/datos/levels.py:113
+msgid "Sébaco"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:86
+#: recursos/0nicaragua/datos/levels.py:114
+msgid "San Benito"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:87
+#: recursos/0nicaragua/datos/levels.py:115
+msgid "San Juan del Norte"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:88
+#: recursos/0nicaragua/datos/levels.py:116
+msgid "San Juan del Sur"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:89
+#: recursos/0nicaragua/datos/levels.py:117
+msgid "San Sebastián de Yalí"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:90
+#: recursos/0nicaragua/datos/levels.py:118
+msgid "San Ubaldo"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:91
+#: recursos/0nicaragua/datos/levels.py:119
+#, fuzzy
+msgid "Santa María"
+msgstr "Santa Maria"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:93
+#: recursos/0nicaragua/datos/levels.py:121
+msgid "Siuna"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:94
+#: recursos/0nicaragua/datos/levels.py:122
+msgid "Somotillo"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:95
+#: recursos/0nicaragua/datos/levels.py:123
+msgid "Teotecacinte"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:96
+#: recursos/0nicaragua/datos/levels.py:124
+#, fuzzy
+msgid "Tipitapa"
+msgstr "Jipijapa"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:97
+#: recursos/0nicaragua/datos/levels.py:125
+msgid "Waspán"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:98
+#: recursos/0nicaragua/datos/levels.py:126
+msgid "Wiwilí"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:102
+#: recursos/0nicaragua/datos/levels.py:136
+#, fuzzy
+msgid "Wawa River"
+msgstr "rzeka Haina"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:103
+#: recursos/0nicaragua/datos/levels.py:137
+msgid "Kukalaya River"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:104
+#: recursos/0nicaragua/datos/levels.py:138
+#, fuzzy
+msgid "Bambana River"
+msgstr "rzeka Ozama"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:105
+#: recursos/0nicaragua/datos/levels.py:139
+msgid "Prinzapolka River"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:106
+#: recursos/0nicaragua/datos/levels.py:140
+#, fuzzy
+msgid "Tuma River"
+msgstr "rzeka Yuma"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:107
+#: recursos/0nicaragua/datos/levels.py:141
+msgid "Grande de Matalgapa River"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:108
+#: recursos/0nicaragua/datos/levels.py:142
+msgid "Kurinwás River"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:109
+#: recursos/0nicaragua/datos/levels.py:143
+#, fuzzy
+msgid "Siquia River"
+msgstr "rzeka Sibun"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:110
+#: recursos/0nicaragua/datos/levels.py:144
+msgid "Escondido River"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:111
+#: recursos/0nicaragua/datos/levels.py:145
+#, fuzzy
+msgid "Mico River"
+msgstr "rzeka Soco"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:112
+#: recursos/0nicaragua/datos/levels.py:146
+#, fuzzy
+msgid "Rama River"
+msgstr "rzeka Ozama"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:113
+#: recursos/0nicaragua/datos/levels.py:147
+msgid "Punta Gorda River"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:117
+#: recursos/0nicaragua/datos/levels.py:151
+#, fuzzy
+msgid "Bocay River"
+msgstr "rzeka Soco"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:118
+#: recursos/0nicaragua/datos/levels.py:152
+#, fuzzy
+msgid "Amaka River"
+msgstr "rzeka Arauca"
+
+#: recursos/0nicaragua/datos/0nicaragua.py:119
+#: recursos/0nicaragua/datos/levels.py:153
+msgid "Estero Real River"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:120
+#: recursos/0nicaragua/datos/levels.py:154
+msgid "Lake Managua"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:121
+#: recursos/0nicaragua/datos/levels.py:155
+msgid "Lake Nicaragua"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:122
+#: recursos/0nicaragua/datos/levels.py:156
+msgid "Perlas Lagoon"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:123
+#: recursos/0nicaragua/datos/levels.py:157
+msgid "Bluefields Bay"
+msgstr ""
+
+#: recursos/0nicaragua/datos/0nicaragua.py:125
+#: recursos/0nicaragua/datos/levels.py:159
+msgid "Punta Gorda Bay"
+msgstr ""
+
 #: recursos/0nicaragua/datos/0nicaragua.py:134
 msgid "(13º0' N - 85º0' W)"
 msgstr "(13º0' N - 85º0' W)"
 
-#: recursos/0guayanafr/datos/0guayanafr.py:68
-msgid "Overseas department"
+#: recursos/0nicaragua/datos/0nicaragua.py:137
+msgid "Daniel Ortega Saavedra"
 msgstr ""
 
 #: recursos/0nicaragua/datos/0nicaragua.py:138
@@ -17014,3 +17599,290 @@ msgstr "Boliviano"
 msgid "Lake Poopo"
 msgstr "jezioro Poopo"
 
+#~ msgid "756.096 km² (38th)"
+#~ msgstr "756 096 km² (38.)"
+
+#~ msgid "916.445 km² (33th)"
+#~ msgstr "916.445 km² (33.)"
+
+#~ msgid "48.442 km² (131th)"
+#~ msgstr "48.442 km² (131.)"
+
+#~ msgid "10.090.000 (80th)"
+#~ msgstr "10.090.000 (80.)"
+
+#~ msgid "5.128 km² (172th)"
+#~ msgstr "5.128 km² (172.)"
+
+#~ msgid "2.780.400 km² (8th)"
+#~ msgstr "2 780 400 km² (8.)"
+
+#~ msgid "9.984.670 km² (2nd)"
+#~ msgstr "9 984 670 km² (2.)"
+
+#~ msgid "GPD:"
+#~ msgstr "PKB:"
+
+#~ msgid "110.860 km² (105th)"
+#~ msgstr "110 860 km² (105.)"
+
+#~ msgid "11.242.621 (71th)"
+#~ msgstr "11 242 621 (71)"
+
+#~ msgid "112.492 km² (102th)"
+#~ msgstr "112.492 km² (102.)"
+
+#~ msgid "176.215 km² (90th)"
+#~ msgstr "176.215 km² (90. na świecie)"
+
+#~ msgid "78.200 km² (118th)"
+#~ msgstr "78.200 km² (118.)"
+
+#~ msgid "9.826.675 km² (3rd)"
+#~ msgstr "9.826.675 km² (3.)"
+
+#, fuzzy
+#~ msgid "9.104 km² (170th)"
+#~ msgstr "5.128 km² (172.)"
+
+#~ msgid "108.889 km² (106th)"
+#~ msgstr "108.889 km² (106.)"
+
+#~ msgid "51.100 km² (129th)"
+#~ msgstr "51 100 km² (129.)"
+
+#~ msgid "4.615.518 (115th)"
+#~ msgstr "4 615 518 (115.)"
+
+#~ msgid "1.285.216 km² (20th)"
+#~ msgstr "1.285.216 km² (20.)"
+
+#, fuzzy
+#~ msgid "USD 1.151 billion (181th)"
+#~ msgstr "2.046 miliardów USD (166.)"
+
+#, fuzzy
+#~ msgid "USD 2.788 billion (158th)"
+#~ msgstr "2.046 miliardów USD (166.)"
+
+#~ msgid "21.041 km² (152th)"
+#~ msgstr "21.041 km² (152.)"
+
+#~ msgid "1.141.748 km² (26th)"
+#~ msgstr "1 141 748 km² (26.)"
+
+#~ msgid "8.514.877 km² (5th)"
+#~ msgstr "8 514 877 km² (5.)"
+
+#~ msgid "27.750 km² (147th)"
+#~ msgstr "27.750 km² (147.)"
+
+#~ msgid "22.966 km² (151th)"
+#~ msgstr "22.966 km² (151.)"
+
+#~ msgid "1.098.581 km² (27th)"
+#~ msgstr "1.098.581 km² (27.)"
+
+#~ msgid "17.248.450 (59th)"
+#~ msgstr "17 248 450 (59.)"
+
+#, fuzzy
+#~ msgid "USD 268.278 billion (37th)"
+#~ msgstr "268,278 miliardów USD (37)"
+
+#~ msgid "28.892.735 (41th)"
+#~ msgstr "28.892.735 (41.)"
+
+#, fuzzy
+#~ msgid "USD 337.979 billion (33th)"
+#~ msgstr "350.276 miliardów USD (31.)"
+
+#~ msgid "High - 0,696 (75th)"
+#~ msgstr "Wysoki - 0,696 (75.)"
+
+#, fuzzy
+#~ msgid "USD 59.133 billion (69th)"
+#~ msgstr "35.173 miliardów USD (98.)"
+
+#~ msgid "Kamla Persad-Bissessar"
+#~ msgstr "Kamla Persad-Bissessar"
+
+#~ msgid "1.299.953 (153th)"
+#~ msgstr "1.299.953 (153.)"
+
+#, fuzzy
+#~ msgid "USD 23.837 billion (100th)"
+#~ msgstr "2.046 miliardów USD (166.)"
+
+#~ msgid "High - 0,736 (59th)"
+#~ msgstr "Wysoki - 0,736 (59.)"
+
+#~ msgid "Cristina Fernández"
+#~ msgstr "Cristina Fernández"
+
+#~ msgid "Amado Boudou"
+#~ msgstr "Amado Boudou"
+
+#~ msgid "40.091.359 (32nd)"
+#~ msgstr "40 091 359 (32.)"
+
+#, fuzzy
+#~ msgid "USD 474.812 billion (25th)"
+#~ msgstr "48.804 miliardów USD (85.)"
+
+#~ msgid "34.124.781 (37th)"
+#~ msgstr "34 124 781 (37)"
+
+#~ msgid "USD 110.800 billion (65th)"
+#~ msgstr "110 800 miliardów USD (65.)"
+
+#~ msgid "Porfirio Lobo"
+#~ msgstr "Porfirio Lobo"
+
+#~ msgid "8.144.000 (93th)"
+#~ msgstr "8.144.000 (93.)"
+
+#, fuzzy
+#~ msgid "USD 18.18 billion (108th)"
+#~ msgstr "11.056 miliardów USD (138.)"
+
+#~ msgid "Medium - 0,604 (106th)"
+#~ msgstr "Średni - 0,604 (106.)"
+
+#~ msgid "3.424.595 (128th)"
+#~ msgstr "3.424.595 (128. na świecie)"
+
+#, fuzzy
+#~ msgid "USD 49.716 billion (78th)"
+#~ msgstr "11.056 miliardów USD (138.)"
+
+#~ msgid "3.405.813 (129th)"
+#~ msgstr "3.405.813 (129.)"
+
+#, fuzzy
+#~ msgid "USD 34.819 billion (89th)"
+#~ msgstr "52 885 miliardów USD (84.)"
+
+#~ msgid "308.745.538 (3rd)"
+#~ msgstr "308.745.538 (3.)"
+
+#, fuzzy
+#~ msgid "USD 15653.366 billion (1st)"
+#~ msgstr "14.204.322 miliardów USD (1.)"
+
+#, fuzzy
+#~ msgid "13 of august of 1898 "
+#~ msgstr "14 sierpnia 1879"
+
+#, fuzzy
+#~ msgid "USD 96.260 billion (--th)"
+#~ msgstr "93.095 miliardów USD (71.)"
+
+#, fuzzy
+#~ msgid "USD 1162.891 billion (14th)"
+#~ msgstr "2.046 miliardów USD (166.)"
+
+#~ msgid "13.718.000 (67th)"
+#~ msgstr "13.718.000 (67.)"
+
+#, fuzzy
+#~ msgid "USD 50.296 billion (77th)"
+#~ msgstr "350.276 miliardów USD (31.)"
+
+#, fuzzy
+#~ msgid "USD 26.089billion (96th)"
+#~ msgstr "2 046 miliardów USD (166.)"
+
+#, fuzzy
+#~ msgid "USD 15.262 billion (116th)"
+#~ msgstr "2 046 miliardów USD (166.)"
+
+#, fuzzy
+#~ msgid "High - 0,688 (80th)"
+#~ msgstr "Wysoki - 0,694 (78.)"
+
+#, fuzzy
+#~ msgid "USD 44.884 billion (80th)"
+#~ msgstr "48.804 miliardów USD (85.)"
+
+#~ msgid "30.165.000 (40th)"
+#~ msgstr "30.165.000 (40.)"
+
+#, fuzzy
+#~ msgid "USD 200.292 billion (50th)"
+#~ msgstr "404 995 miliardów USD (27.)"
+
+#~ msgid "High - 0,723 (63th)"
+#~ msgstr "Wysoki - 0,723 (63.)"
+
+#, fuzzy
+#~ msgid "542.000 (171th)"
+#~ msgstr "372.000 (170.)"
+
+#, fuzzy
+#~ msgid "USD 5.094 billion (147th)"
+#~ msgstr "2 046 miliardów USD (166.)"
+
+#, fuzzy
+#~ msgid "Medium - 0,646 (94th)"
+#~ msgstr "Średni - 0,783 (88.)"
+
+#, fuzzy
+#~ msgid "USD 7.828 billion (138th)"
+#~ msgstr "2.046 miliardów USD (166.)"
+
+#, fuzzy
+#~ msgid "Medium - 0,611 (104th)"
+#~ msgstr "Średni - 0,659 (90.)"
+
+#~ msgid "5.744.113 (97th)"
+#~ msgstr "5.744.113 (97.)"
+
+#, fuzzy
+#~ msgid "USD 23.985 billion (99th)"
+#~ msgstr "47 980 miliardów USD (87.)"
+
+#, fuzzy
+#~ msgid "USD 0.717 billion (181st)"
+#~ msgstr "2.046 miliardów USD (166.)"
+
+#~ msgid "45.925.397 (28th)"
+#~ msgstr "45 925 397 (28.)"
+
+#~ msgid "190.732.694 (5th)"
+#~ msgstr "190 732 694 (5.)"
+
+#, fuzzy
+#~ msgid "USD 2425.052 billion (7th)"
+#~ msgstr "73.022 miliardów USD (79.)"
+
+#~ msgid "9.800.000 (90th)"
+#~ msgstr "9.800.000 (90.)"
+
+#, fuzzy
+#~ msgid "USD 7.895 billion (137th)"
+#~ msgstr "2.046 miliardów USD (166.)"
+
+#, fuzzy
+#~ msgid "USD 70.836 billion (67th)"
+#~ msgstr "110 800 miliardów USD (65.)"
+
+#~ msgid "Sir Colville Young"
+#~ msgstr "Sir Colville Young"
+
+#~ msgid "372.000 (170th)"
+#~ msgstr "372.000 (170.)"
+
+#, fuzzy
+#~ msgid "USD 1.52 billions (167th)"
+#~ msgstr "2.046 miliardów USD (166.)"
+
+#~ msgid "High - 0,694 (78th)"
+#~ msgstr "Wysoki - 0,694 (78.)"
+
+#~ msgid "10.426.160 (87th)"
+#~ msgstr "10.426.160 (87.)"
+
+#, fuzzy
+#~ msgid "USD 26.749 billion (94th)"
+#~ msgstr "299.648 miliardów (41.)"

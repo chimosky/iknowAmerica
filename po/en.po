@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-11 06:37+0000\n"
-"PO-Revision-Date: 2016-04-12 03:28+0000\n"
+"PO-Revision-Date: 2017-10-29 01:13+0000\n"
 "Last-Translator: Chris <cjl@sugarlabs.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1460431695.000000\n"
+"X-POOTLE-MTIME: 1509239591.000000\n"
 
 #. TRANS: "name" option from activity.info file
 #: recursos/comun/datos/commons.py:5
@@ -4141,15 +4141,15 @@ msgstr "30,933,000"
 
 #: recursos/0venezuela/datos/0venezuela.py:129
 msgid "44th"
-msgstr ""
+msgstr "44th"
 
 #: recursos/0venezuela/datos/0venezuela.py:130
 msgid "131.855"
-msgstr ""
+msgstr "131.855"
 
 #: recursos/0venezuela/datos/0venezuela.py:130
 msgid "33rd"
-msgstr ""
+msgstr "33rd"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
 #: recursos/0dominicana/datos/0dominicana.py:123
@@ -4163,15 +4163,15 @@ msgstr ""
 #: recursos/0ecuador/datos/0ecuador.py:151
 #: recursos/0belice/datos/0belice.py:105
 msgid "High"
-msgstr ""
+msgstr "High"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
 msgid "0,762"
-msgstr ""
+msgstr "0,762"
 
 #: recursos/0venezuela/datos/0venezuela.py:131
 msgid "71st"
-msgstr ""
+msgstr "71st"
 
 #: recursos/0dominicana/datos/explorations.py:6
 #: recursos/0dominicana/datos/levels.py:7
@@ -4692,21 +4692,21 @@ msgstr "1865 (from Spain)"
 
 #: recursos/0dominicana/datos/0dominicana.py:120
 msgid "48.442"
-msgstr ""
+msgstr "48.442"
 
 #: recursos/0dominicana/datos/0dominicana.py:120
 #: recursos/0honduras/datos/0honduras.py:137
 msgid "131st"
-msgstr ""
+msgstr "131st"
 
 #: recursos/0dominicana/datos/0dominicana.py:121
 msgid "10.090.000"
-msgstr ""
+msgstr "10.090.000"
 
 #: recursos/0dominicana/datos/0dominicana.py:121
 #: recursos/0costarica/datos/0costarica.py:158
 msgid "80th"
-msgstr ""
+msgstr "80th"
 
 #: recursos/0dominicana/datos/0dominicana.py:122
 msgid "66.575"
@@ -5024,20 +5024,20 @@ msgstr "159th"
 
 #: recursos/0tytobago/datos/0tytobago.py:82
 msgid "28.788"
-msgstr ""
+msgstr "28.788"
 
 #: recursos/0tytobago/datos/0tytobago.py:82
 msgid "100th"
-msgstr ""
+msgstr "100th"
 
 #: recursos/0tytobago/datos/0tytobago.py:83
 msgid "0,772"
-msgstr ""
+msgstr "0,772"
 
 #: recursos/0tytobago/datos/0tytobago.py:83 recursos/0cuba/datos/0cuba.py:92
 #: recursos/0ecuador/datos/0ecuador.py:150
 msgid "64th"
-msgstr ""
+msgstr "64th"
 
 #: recursos/0tytobago/datos/0tytobago.py:84
 msgid "Trinidad and Tobago dollar"
@@ -5570,11 +5570,11 @@ msgstr "Federal presidential republic"
 
 #: recursos/0argentina/datos/0argentina.py:114
 msgid "Mauricio Macri"
-msgstr ""
+msgstr "Mauricio Macri"
 
 #: recursos/0argentina/datos/0argentina.py:115
 msgid "Gabriela Michetti"
-msgstr ""
+msgstr "Gabriela Michetti"
 
 #: recursos/0argentina/datos/0argentina.py:117
 msgid "9 of july of 1816"
@@ -5582,16 +5582,16 @@ msgstr "July 9, 1816"
 
 #: recursos/0argentina/datos/0argentina.py:119
 msgid "2.780.400"
-msgstr ""
+msgstr "2.780.400"
 
 #: recursos/0argentina/datos/0argentina.py:119
 #: recursos/0eunidos/datos/0eunidos.py:188
 msgid "8th"
-msgstr ""
+msgstr "8th"
 
 #: recursos/0argentina/datos/0argentina.py:120
 msgid "43.417.000"
-msgstr ""
+msgstr "43.417.000"
 
 #: recursos/0argentina/datos/0argentina.py:120
 msgid "32nd"
@@ -6155,19 +6155,19 @@ msgstr "37th"
 
 #: recursos/0canada/datos/0canada.py:121
 msgid "1628.000"
-msgstr ""
+msgstr "1628.000"
 
 #: recursos/0canada/datos/0canada.py:121
 msgid "15th"
-msgstr ""
+msgstr "15th"
 
 #: recursos/0canada/datos/0canada.py:122
 msgid "0,913"
-msgstr ""
+msgstr "0,913"
 
 #: recursos/0canada/datos/0canada.py:122 recursos/0brasil/datos/0brasil.py:148
 msgid "9th"
-msgstr ""
+msgstr "9th"
 
 #: recursos/0canada/datos/0canada.py:123
 msgid "Canadian dollar"
@@ -6483,23 +6483,23 @@ msgstr "May 20, 1902"
 
 #: recursos/0cuba/datos/0cuba.py:90
 msgid "110.860"
-msgstr ""
+msgstr "110.860"
 
 #: recursos/0cuba/datos/0cuba.py:90
 msgid "105th"
-msgstr ""
+msgstr "105th"
 
 #: recursos/0cuba/datos/0cuba.py:91
 msgid "11.242.621"
-msgstr ""
+msgstr "11.242.621"
 
 #: recursos/0cuba/datos/0cuba.py:91 recursos/0ecuador/datos/0ecuador.py:148
 msgid "71th"
-msgstr ""
+msgstr "71th"
 
 #: recursos/0cuba/datos/0cuba.py:92
 msgid "78.694"
-msgstr ""
+msgstr "78.694"
 
 #: recursos/0cuba/datos/0cuba.py:93
 msgid "0,769"
@@ -7144,11 +7144,11 @@ msgstr "108th"
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
 #: recursos/0bolivia/datos/0bolivia.py:113
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 #: recursos/0honduras/datos/0honduras.py:137
 msgid "0,606"
-msgstr ""
+msgstr "0,606"
 
 #: recursos/0uruguay/datos/explorations.py:34
 msgid "Elevations"
@@ -7956,31 +7956,31 @@ msgstr "August 28, 1828"
 
 #: recursos/0uruguay/datos/0uruguay.py:188
 msgid "176.215"
-msgstr ""
+msgstr "176.215"
 
 #: recursos/0uruguay/datos/0uruguay.py:188
 msgid "90th"
-msgstr ""
+msgstr "90th"
 
 #: recursos/0uruguay/datos/0uruguay.py:189
 msgid "3.324.460"
-msgstr ""
+msgstr "3.324.460"
 
 #: recursos/0uruguay/datos/0uruguay.py:189
 msgid "133rd"
-msgstr ""
+msgstr "133rd"
 
 #: recursos/0uruguay/datos/0uruguay.py:190
 msgid "54.968"
-msgstr ""
+msgstr "54.968"
 
 #: recursos/0uruguay/datos/0uruguay.py:190
 msgid "78th"
-msgstr ""
+msgstr "78th"
 
 #: recursos/0uruguay/datos/0uruguay.py:191
 msgid "0,793"
-msgstr ""
+msgstr "0,793"
 
 #: recursos/0uruguay/datos/0uruguay.py:191
 msgid "52th"
@@ -9288,24 +9288,24 @@ msgstr "September 3, 1783"
 
 #: recursos/0eunidos/datos/0eunidos.py:185
 msgid "9.826.675"
-msgstr ""
+msgstr "9.826.675"
 
 #: recursos/0eunidos/datos/0eunidos.py:185
 #: recursos/0eunidos/datos/0eunidos.py:186
 msgid "3rd"
-msgstr ""
+msgstr "3rd"
 
 #: recursos/0eunidos/datos/0eunidos.py:186
 msgid "322.369.319"
-msgstr ""
+msgstr "322.369.319"
 
 #: recursos/0eunidos/datos/0eunidos.py:187
 msgid "17419.000"
-msgstr ""
+msgstr "17419.000"
 
 #: recursos/0eunidos/datos/0eunidos.py:188
 msgid "0,915"
-msgstr ""
+msgstr "0,915"
 
 #: recursos/0eunidos/datos/0eunidos.py:189 recursos/0prico/datos/0prico.py:196
 #: recursos/0elsalvador/datos/0elsalvador.py:111
@@ -9823,21 +9823,20 @@ msgid "Ceded by Spain to the United States"
 msgstr "Ceded by Spain to the United States"
 
 #: recursos/0prico/datos/0prico.py:191
-#, fuzzy
 msgid "13 of august of 1898"
-msgstr "August 13, 1898 "
+msgstr "August 13, 1898"
 
 #: recursos/0prico/datos/0prico.py:192
 msgid "9.104"
-msgstr ""
+msgstr "9.104"
 
 #: recursos/0prico/datos/0prico.py:192 recursos/0belice/datos/0belice.py:103
 msgid "170th"
-msgstr ""
+msgstr "170th"
 
 #: recursos/0prico/datos/0prico.py:193
 msgid "3.725.789"
-msgstr ""
+msgstr "3.725.789"
 
 #: recursos/0prico/datos/0prico.py:193
 msgid "127th"
@@ -10318,15 +10317,15 @@ msgstr "1,232,000"
 
 #: recursos/0mexico/datos/0mexico.py:146
 msgid "13th"
-msgstr ""
+msgstr "13th"
 
 #: recursos/0mexico/datos/0mexico.py:147
 msgid "0,756"
-msgstr ""
+msgstr "0,756"
 
 #: recursos/0mexico/datos/0mexico.py:147
 msgid "74th"
-msgstr ""
+msgstr "74th"
 
 #: recursos/0mexico/datos/0mexico.py:149
 msgid "Info updated:"
@@ -10896,11 +10895,11 @@ msgstr "(14º38' N - 90º33' W)"
 
 #: recursos/0guatemala/datos/0guatemala.py:158
 msgid "Jimmy Morales"
-msgstr ""
+msgstr "Jimmy Morales"
 
 #: recursos/0guatemala/datos/0guatemala.py:159
 msgid "Jafeth Cabrera"
-msgstr ""
+msgstr "Jafeth Cabrera"
 
 #: recursos/0guatemala/datos/0guatemala.py:162
 msgid "11 of october of 1825"
@@ -10908,19 +10907,19 @@ msgstr "October 11, 1825"
 
 #: recursos/0guatemala/datos/0guatemala.py:163
 msgid "108.889"
-msgstr ""
+msgstr "108.889"
 
 #: recursos/0guatemala/datos/0guatemala.py:163
 msgid "106th"
-msgstr ""
+msgstr "106th"
 
 #: recursos/0guatemala/datos/0guatemala.py:164
 msgid "15.806.675"
-msgstr ""
+msgstr "15.806.675"
 
 #: recursos/0guatemala/datos/0guatemala.py:164
 msgid "66th"
-msgstr ""
+msgstr "66th"
 
 #: recursos/0guatemala/datos/0guatemala.py:165
 msgid "66.037"
@@ -11386,15 +11385,15 @@ msgstr "30.754"
 #: recursos/0elsalvador/datos/0elsalvador.py:108
 #: recursos/0elsalvador/datos/0elsalvador.py:109
 msgid "99th"
-msgstr ""
+msgstr "99th"
 
 #: recursos/0paraguay/datos/0paraguay.py:119
 msgid "0,679"
-msgstr ""
+msgstr "0,679"
 
 #: recursos/0paraguay/datos/0paraguay.py:119
 msgid "112nd"
-msgstr ""
+msgstr "112nd"
 
 #: recursos/0jamaica/datos/0jamaica.py:8 recursos/0jamaica/datos/levels.py:11
 msgid "Hanover"
@@ -11676,28 +11675,28 @@ msgstr "August 6, 1962"
 
 #: recursos/0jamaica/datos/0jamaica.py:97
 msgid "10.991"
-msgstr ""
+msgstr "10.991"
 
 #: recursos/0jamaica/datos/0jamaica.py:97
 msgid "166th"
-msgstr ""
+msgstr "166th"
 
 #: recursos/0jamaica/datos/0jamaica.py:98
 msgid "2.950.210"
-msgstr ""
+msgstr "2.950.210"
 
 #: recursos/0jamaica/datos/0jamaica.py:98
 msgid "139th"
-msgstr ""
+msgstr "139th"
 
 #: recursos/0jamaica/datos/0jamaica.py:99
 msgid "15.569"
-msgstr ""
+msgstr "15.569"
 
 #: recursos/0jamaica/datos/0jamaica.py:99
 #: recursos/0elsalvador/datos/0elsalvador.py:110
 msgid "116th"
-msgstr ""
+msgstr "116th"
 
 #: recursos/0jamaica/datos/0jamaica.py:100
 msgid "0,719"
@@ -12769,23 +12768,23 @@ msgstr "20th"
 
 #: recursos/0peru/datos/0peru.py:143
 msgid "31.151.643"
-msgstr ""
+msgstr "31.151.643"
 
 #: recursos/0peru/datos/0peru.py:144
 msgid "217.607"
-msgstr ""
+msgstr "217.607"
 
 #: recursos/0peru/datos/0peru.py:144
 msgid "50th"
-msgstr ""
+msgstr "50th"
 
 #: recursos/0peru/datos/0peru.py:145
 msgid "0,734"
-msgstr ""
+msgstr "0,734"
 
 #: recursos/0peru/datos/0peru.py:145
 msgid "84th"
-msgstr ""
+msgstr "84th"
 
 #: recursos/0peru/datos/0peru.py:146
 msgid "Nuevo sol"
@@ -13057,7 +13056,7 @@ msgstr "Dési Bouterse"
 
 #: recursos/0surinam/datos/0surinam.py:81
 msgid "Ashwin Adhin"
-msgstr ""
+msgstr "Ashwin Adhin"
 
 #: recursos/0surinam/datos/0surinam.py:82
 msgid "from Netherlands"
@@ -13069,15 +13068,15 @@ msgstr "November 25, 1975"
 
 #: recursos/0surinam/datos/0surinam.py:84
 msgid "163.820"
-msgstr ""
+msgstr "163.820"
 
 #: recursos/0surinam/datos/0surinam.py:84
 msgid "91th"
-msgstr ""
+msgstr "91th"
 
 #: recursos/0surinam/datos/0surinam.py:85
 msgid "573.311"
-msgstr ""
+msgstr "573.311"
 
 #: recursos/0surinam/datos/0surinam.py:85
 #: recursos/0belice/datos/0belice.py:104
@@ -13314,11 +13313,11 @@ msgstr "186th"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:72
 msgid "1.151"
-msgstr ""
+msgstr "1.151"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:72
 msgid "181th"
-msgstr ""
+msgstr "181th"
 
 #: recursos/0guayanafr/datos/0guayanafr.py:74
 msgid "Euro"
@@ -13795,33 +13794,33 @@ msgstr "April 8, 1826"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:142
 msgid "129.494"
-msgstr ""
+msgstr "129.494"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:142
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:66
 #: recursos/0colombia/datos/0colombia.py:146
 msgid "97th"
-msgstr ""
+msgstr "97th"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:143
 msgid "6.071.045"
-msgstr ""
+msgstr "6.071.045"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:144
 msgid "12.557"
-msgstr ""
+msgstr "12.557"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:144
 msgid "138th"
-msgstr ""
+msgstr "138th"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:145
 msgid "0,631"
-msgstr ""
+msgstr "0,631"
 
 #: recursos/0nicaragua/datos/0nicaragua.py:145
 msgid "125th"
-msgstr ""
+msgstr "125th"
 
 #: recursos/0guyana/datos/levels.py:11 recursos/0guyana/datos/0guyana.py:8
 msgid "Barima-Waini"
@@ -14103,7 +14102,7 @@ msgstr "0,636"
 
 #: recursos/0guyana/datos/0guyana.py:93
 msgid "124th"
-msgstr ""
+msgstr "124th"
 
 #: recursos/0guyana/datos/0guyana.py:94
 msgid "Guyanese dollar"
@@ -14433,23 +14432,23 @@ msgstr "June 12, 1824"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:107
 msgid "21.041"
-msgstr ""
+msgstr "21.041"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:107
 msgid "152th"
-msgstr ""
+msgstr "152th"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:108
 msgid "6.377.195"
-msgstr ""
+msgstr "6.377.195"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:109
 msgid "28.986"
-msgstr ""
+msgstr "28.986"
 
 #: recursos/0elsalvador/datos/0elsalvador.py:110
 msgid "0,686"
-msgstr ""
+msgstr "0,686"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:9
 #: recursos/0sanvicenteyg/datos/levels.py:12
@@ -14615,15 +14614,15 @@ msgstr "October 27, 1979"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:63
 msgid "389"
-msgstr ""
+msgstr "389"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:63
 msgid "206th"
-msgstr ""
+msgstr "206th"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:64
 msgid "103.000"
-msgstr ""
+msgstr "103.000"
 
 #: recursos/0sanvicenteyg/datos/0sanvicenteyg.py:64
 msgid "196th"
@@ -15422,9 +15421,8 @@ msgid "427.139"
 msgstr "427.139"
 
 #: recursos/0colombia/datos/0colombia.py:148
-#, fuzzy
 msgid "5 of abril of 2016"
-msgstr "April 8, 1826"
+msgstr "April 5, 2016"
 
 #: recursos/0brasil/datos/levels.py:12 recursos/0brasil/datos/0brasil.py:9
 msgid "Acre"
@@ -15713,27 +15711,27 @@ msgstr "August 29, 1825"
 
 #: recursos/0brasil/datos/0brasil.py:146
 msgid "8.514.877"
-msgstr ""
+msgstr "8.514.877"
 
 #: recursos/0brasil/datos/0brasil.py:146 recursos/0brasil/datos/0brasil.py:147
 msgid "5th"
-msgstr ""
+msgstr "5th"
 
 #: recursos/0brasil/datos/0brasil.py:147
 msgid "205.338.000"
-msgstr ""
+msgstr "205.338.000"
 
 #: recursos/0brasil/datos/0brasil.py:148
 msgid "1672.000"
-msgstr ""
+msgstr "1672.000"
 
 #: recursos/0brasil/datos/0brasil.py:149
 msgid "0,755"
-msgstr ""
+msgstr "0,755"
 
 #: recursos/0brasil/datos/0brasil.py:149
 msgid "75th"
-msgstr ""
+msgstr "75th"
 
 #: recursos/0brasil/datos/0brasil.py:150
 msgid "Real"
@@ -16183,7 +16181,7 @@ msgstr "Michel Martelly"
 
 #: recursos/0haiti/datos/0haiti.py:103
 msgid "Enex Jean-Charles"
-msgstr ""
+msgstr "Enex Jean-Charles"
 
 #: recursos/0haiti/datos/0haiti.py:105
 msgid "1 of january of 1804"
@@ -16191,7 +16189,7 @@ msgstr "January 1, 1804"
 
 #: recursos/0haiti/datos/0haiti.py:106
 msgid "27.750"
-msgstr ""
+msgstr "27.750"
 
 #: recursos/0haiti/datos/0haiti.py:107
 msgid "10.604.000"
@@ -16710,19 +16708,19 @@ msgstr "16,144,000"
 
 #: recursos/0ecuador/datos/0ecuador.py:149
 msgid "65th"
-msgstr ""
+msgstr "65th"
 
 #: recursos/0ecuador/datos/0ecuador.py:150
 msgid "100.755"
-msgstr ""
+msgstr "100.755"
 
 #: recursos/0ecuador/datos/0ecuador.py:151
 msgid "0,732"
-msgstr ""
+msgstr "0,732"
 
 #: recursos/0ecuador/datos/0ecuador.py:151
 msgid "88th"
-msgstr ""
+msgstr "88th"
 
 #: recursos/0ecuador/datos/levels.py:112
 msgid "Tigre"
@@ -17157,7 +17155,7 @@ msgstr "Parliamentary democracy"
 
 #: recursos/0belice/datos/0belice.py:99
 msgid "Dean Barrow"
-msgstr ""
+msgstr "Dean Barrow"
 
 #: recursos/0belice/datos/0belice.py:100
 msgid "from the United Kingdom"
@@ -17169,15 +17167,15 @@ msgstr "September 21. 1981"
 
 #: recursos/0belice/datos/0belice.py:102
 msgid "22.966"
-msgstr ""
+msgstr "22.966"
 
 #: recursos/0belice/datos/0belice.py:102
 msgid "151th"
-msgstr ""
+msgstr "151th"
 
 #: recursos/0belice/datos/0belice.py:103
 msgid "347.369"
-msgstr ""
+msgstr "347.369"
 
 #: recursos/0belice/datos/0belice.py:104
 msgid "1.759"
@@ -17976,3 +17974,665 @@ msgstr "Lake Poopo"
 #~ msgid "Medium - 0,643 (95th)"
 #~ msgstr "Medium - 0,643 (95th)"
 
+#~ msgid "USD 642.402 billion (22nd)"
+#~ msgstr "USD 642.402 billion (22nd)"
+
+#~ msgid "USD 2.172 trillion (5th)"
+#~ msgstr "USD 2.172 trillion (5th)"
+
+#~ msgid "USD 1.996.753 billion (13th)"
+#~ msgstr "USD 1.996.753 billion (13th)"
+
+#~ msgid "USD 276.338 billion (43rd)"
+#~ msgstr "USD 276.338 billion (43rd)"
+
+#~ msgid "Laura Chinchilla Miranda"
+#~ msgstr "Laura Chinchilla Miranda"
+
+#~ msgid "Leonel Fernández"
+#~ msgstr "Leonel Fernández"
+
+#~ msgid "Rafael Alburquerque"
+#~ msgstr "Rafael Alburquerque"
+
+#~ msgid "USD 93.095 billion (71th)"
+#~ msgstr "USD 93.095 billion (71th)"
+
+#~ msgid "Lenín Moreno"
+#~ msgstr "Lenín Moreno"
+
+#~ msgid "USD 119.827 billion (--th)"
+#~ msgstr "USD 119.827 billion (--th)"
+
+#~ msgid "USD 11.145 billion (88th)"
+#~ msgstr "USD 11.145 billion (88th)"
+
+#~ msgid "Jean-Max Bellerive"
+#~ msgstr "Jean-Max Bellerive"
+
+#~ msgid "USD 11.690 billion (131st)"
+#~ msgstr "USD 11.690 billion (131st)"
+
+#~ msgid "Felipe Calderón Hinojosa"
+#~ msgstr "Felipe Calderón Hinojosa"
+
+#~ msgid "USD 18.533 billion (123th)"
+#~ msgstr "USD 18.533 billion (123th)"
+
+#~ msgid "Fernando Lugo"
+#~ msgstr "Fernando Lugo"
+
+#~ msgid "USD 30.943 billion (102th)"
+#~ msgstr "USD 30.943 billion (102th)"
+
+#~ msgid "Oscar Valdés Dancuart"
+#~ msgstr "Oscar Valdés Dancuart"
+
+#~ msgid "George Maxwell Richards"
+#~ msgstr "George Maxwell Richards"
+
+#~ msgid "USD 26.536 billion (115th)"
+#~ msgstr "USD 26.536 billion (115th)"
+
+#~ msgid "USD 51.209 billion (86th)"
+#~ msgstr "USD 51.209 billion (86th)"
+
+#~ msgid "High - 0,765 (52th)"
+#~ msgstr "High - 0,765 (52th)"
+
+#~ msgid "Hugo Chávez Frías"
+#~ msgstr "Hugo Chávez Frías"
+
+#~ msgid "Elías Jaua Milano"
+#~ msgstr "Elías Jaua Milano"
+
+#~ msgid "About I know America"
+#~ msgstr "About I Know the Americas"
+
+#~ msgid "Next page >>>"
+#~ msgstr "Next page >>>"
+
+#~ msgid "We have to look"
+#~ msgstr "We have to look"
+
+#~ msgid "You can tell where is it?"
+#~ msgstr "You can tell where is it?"
+
+#~ msgid "No, this is not"
+#~ msgstr "No, this is not"
+
+#~ msgid "Here it is not"
+#~ msgstr "Here it is not"
+
+#~ msgid "It seems that this is not"
+#~ msgstr "It seems that this is not"
+
+#~ msgid "That is not"
+#~ msgstr "That is not"
+
+#~ msgid "San Jose"
+#~ msgstr "San Jose"
+
+#~ msgid "San Jose de Mayo"
+#~ msgstr "San Jose de Mayo"
+
+#~ msgid "San Jose River"
+#~ msgstr "San José River"
+
+#~ msgid "Bahamas Island"
+#~ msgstr "Bahamas Island"
+
+#~ msgid "Spanish, Quechua, Guarani"
+#~ msgstr "Spanish, Quechua, Guarani"
+
+#~ msgid "English and French"
+#~ msgstr "English and French"
+
+#~ msgid "D.N."
+#~ msgstr "D.N."
+
+#~ msgid "Bahamas"
+#~ msgstr "Bahamas"
+
+#~ msgid "D.F."
+#~ msgstr "D.F."
+
+#~ msgid "Spanish and Guaraní"
+#~ msgstr "Spanish and Guaraní"
+
+#~ msgid "Spanish, quechúa, aimará"
+#~ msgstr "Spanish, quechúa, aimará"
+
+#~ msgid "Spanish, English"
+#~ msgstr "Spanish, English"
+
+#~ msgid "Reina Isabel II"
+#~ msgstr "Reina Isabel II"
+
+#~ msgid "IDH:"
+#~ msgstr "IDH:"
+
+#~ msgid "St. Lucia"
+#~ msgstr "St. Lucia"
+
+#~ msgid "St. Vincent and the Grenadines"
+#~ msgstr "St. Vincent and the Grenadines"
+
+#~ msgid "Is. Margarita"
+#~ msgstr "Is. Margarita"
+
+#~ msgid "St. George's"
+#~ msgstr "St. George's"
+
+#~ msgid "Sta. Clara"
+#~ msgstr "Santa Clara"
+
+#~ msgid "Isla Margarita"
+#~ msgstr "Isla Margarita"
+
+#~ msgid "Alaska (USA)"
+#~ msgstr "Alaska (USA)"
+
+#~ msgid "Guayana Fr."
+#~ msgstr "Guayana Fr."
+
+#~ msgid "Is. Juan Fernández"
+#~ msgstr "Is. Juan Fernández"
+
+#~ msgid "Is. San Félix"
+#~ msgstr "Is. San Félix"
+
+#~ msgid "Is. San Ambrosio"
+#~ msgstr "Is. San Ambrosio"
+
+#~ msgid "Is. de Malpelo"
+#~ msgstr "Is. de Malpelo"
+
+#~ msgid "Trinidad y Tobago"
+#~ msgstr "Trinidad and Tobago"
+
+#~ msgid "Guayana Francesa"
+#~ msgstr "Guayana Francesa"
+
+#~ msgid "Is. Malvinas"
+#~ msgstr "Is. Malvinas"
+
+#~ msgid "Julio Cobos"
+#~ msgstr "Julio Cobos"
+
+#~ msgid "Is. Turneffe"
+#~ msgstr "Is. Turneffe"
+
+#~ msgid "S. Antonio"
+#~ msgstr "S. Antonio"
+
+#~ msgid "2"
+#~ msgstr "2"
+
+#~ msgid "Bank Islands"
+#~ msgstr "Bank Islands"
+
+#~ msgid "Islandia"
+#~ msgstr "Islandia"
+
+#~ msgid "Valparaiso"
+#~ msgstr "Valparaiso"
+
+#~ msgid "Bio-Bio"
+#~ msgstr "Bio-Bio"
+
+#~ msgid "Sta. Cecilia"
+#~ msgstr "Sta. Cecilia"
+
+#~ msgid "Ciudad de la Habana"
+#~ msgstr "Ciudad de la Habana"
+
+#~ msgid "Is. Nueva Providencia"
+#~ msgstr "Is. Nueva Providencia"
+
+#~ msgid "Is. Eleuthera"
+#~ msgstr "Is. Eleuthera"
+
+#~ msgid "Is. Gato"
+#~ msgstr "Is. Gato"
+
+#~ msgid "Is. Gran Exuma"
+#~ msgstr "Is. Gran Exuma"
+
+#~ msgid "Is. Crooked"
+#~ msgstr "Is. Crooked"
+
+#~ msgid "Is. Abaco"
+#~ msgstr "Is. Abaco"
+
+#~ msgid "Habana"
+#~ msgstr "Havana"
+
+#~ msgid "Monsr. Nouel"
+#~ msgstr "Monsr. Nouel"
+
+#~ msgid "Stgo. Rodríguez"
+#~ msgstr "Stgo. Rodríguez"
+
+#~ msgid "S.J.de Ocoa"
+#~ msgstr "S.J.de Ocoa"
+
+#~ msgid "Sto. Domingo"
+#~ msgstr "Sto. Domingo"
+
+#~ msgid "Is. Beata"
+#~ msgstr "Is. Beata"
+
+#~ msgid "Is. Saona"
+#~ msgstr "Is. Saona"
+
+#~ msgid "San Fsco. de Macoris"
+#~ msgstr "San Fsco. de Macoris"
+
+#~ msgid "Álvaro Colom"
+#~ msgstr "Álvaro Colom"
+
+#~ msgid "Rafael Espada"
+#~ msgstr "Rafael Espada"
+
+#~ msgid "Bharrat Jagdeo"
+#~ msgstr "Bharrat Jagdeo"
+
+#~ msgid "Is. de la Tortuga"
+#~ msgstr "Is. de la Tortuga"
+
+#~ msgid "Is. de la Gonâve"
+#~ msgstr "Is. de la Gonâve"
+
+#~ msgid "Is. Gran Cayemite"
+#~ msgstr "Is. Gran Cayemite"
+
+#~ msgid "Is. de la Vaca"
+#~ msgstr "Is. de la Vaca"
+
+#~ msgid "N.Ocotepeque"
+#~ msgstr "N.Ocotepeque"
+
+#~ msgid "Is. Revillagígedo"
+#~ msgstr "Is. Revillagígedo"
+
+#~ msgid "Official language:"
+#~ msgstr "Official language:"
+
+#, fuzzy
+#~ msgid "Santo Dom."
+#~ msgstr "Santo Tomé"
+
+#~ msgid "Wasparn"
+#~ msgstr "Wasparn"
+
+#~ msgid "Canal of Panamá"
+#~ msgstr "Canal of Panamá"
+
+#~ msgid "Negra River"
+#~ msgstr "Negra River"
+
+#~ msgid "Salomón Lerner Ghitis"
+#~ msgstr "Salomón Lerner Ghitis"
+
+#~ msgid "A.B."
+#~ msgstr "A.B."
+
+#~ msgid "Mayaguez"
+#~ msgstr "Mayaguez"
+
+#~ msgid "Njito."
+#~ msgstr "Njito."
+
+#~ msgid "Sta. Isabel"
+#~ msgstr "Sta. Isabel"
+
+#~ msgid "Jayuga"
+#~ msgstr "Jayuga"
+
+#~ msgid "Plata River"
+#~ msgstr "Plata River"
+
+#~ msgid "High - -- (--th)"
+#~ msgstr "High - -- (--th)"
+
+#~ msgid "It's near of Brazil"
+#~ msgstr "It's near Brazil"
+
+#~ msgid "T. and Tobago"
+#~ msgstr "T. and Tobago"
+
+#~ msgid "Is. Aruba"
+#~ msgstr "Is. Aruba"
+
+#~ msgid "Is. Curacao"
+#~ msgstr "Is. Curacao"
+
+#~ msgid "Is. Bonaire"
+#~ msgstr "Is. Bonaire"
+
+#~ msgid "Is. Tortuga"
+#~ msgstr "Is. Tortuga"
+
+#~ msgid "Conozco America"
+#~ msgstr "Conozco América"
+
+#~ msgid "Districts capitals"
+#~ msgstr "Capitales Distritales"
+
+#, python-format
+#~ msgid "the parish of |%s"
+#~ msgstr ""
+#~ "the parish of\n"
+#~ "%s"
+
+#~ msgid "Belice"
+#~ msgstr "Belize"
+
+#~ msgid "Belmopán"
+#~ msgstr "Belmopán"
+
+#~ msgid "Conn."
+#~ msgstr "Connecticut"
+
+#~ msgid "Mass."
+#~ msgstr "Massachusetts"
+
+#~ msgid "N.H."
+#~ msgstr "New Hampshire"
+
+#~ msgid "N.J."
+#~ msgstr "New Jersey"
+
+#~ msgid "N. Carolina"
+#~ msgstr "North Carolina"
+
+#~ msgid "N. Dakota"
+#~ msgstr "North Dakota"
+
+#~ msgid "R.I."
+#~ msgstr "Rhode Island"
+
+#~ msgid "Queda al nororeste"
+#~ msgstr "Queda al nororeste"
+
+#~ msgid "S. Carolina"
+#~ msgstr "South Carolina"
+
+#~ msgid "S. Dakota"
+#~ msgstr "South Dakota"
+
+#~ msgid "VT"
+#~ msgstr "Vermont"
+
+#~ msgid "W.V."
+#~ msgstr "West Virginia"
+
+#~ msgid "San Fsco."
+#~ msgstr "San Francisco"
+
+#~ msgid "Passage Windward"
+#~ msgstr "Windward Passage"
+
+#~ msgid "República Dominicana"
+#~ msgstr "Dominican Republic"
+
+#, fuzzy
+#~ msgid "Marañon River"
+#~ msgstr "Maroni River"
+
+#~ msgid " "
+#~ msgstr " "
+
+#~ msgid "Queda al noroeeste"
+#~ msgstr "Queda al noroeeste"
+
+#~ msgid "Queda al "
+#~ msgstr "Queda al "
+
+#~ msgid "Los Ríos"
+#~ msgstr "Los Ríos"
+
+#~ msgid "Brasil"
+#~ msgstr "Brazil"
+
+#~ msgid "Río de Janeiro"
+#~ msgstr "Río de Janeiro"
+
+#~ msgid "Surinam"
+#~ msgstr "Suriname"
+
+#, fuzzy
+#~ msgid "Belem"
+#~ msgstr "Belén"
+
+#~ msgid "Vice Presedint:"
+#~ msgstr "Vice President:"
+
+#~ msgid "T. y Tobago"
+#~ msgstr "Trinidad and Tobago"
+
+#~ msgid "Is. Gran Bahama"
+#~ msgstr "Grand Bahama Island"
+
+#~ msgid "Is. Andros"
+#~ msgstr "Andros Island"
+
+#~ msgid "Is. Caimán"
+#~ msgstr "Cayman Islands"
+
+#~ msgid "A. y Barbuda"
+#~ msgstr "Antigua and Barbuda"
+
+#~ msgid "tegucigalpa"
+#~ msgstr "Tegucigalpa"
+
+#~ msgid "San Vicente and Granadinas"
+#~ msgstr "St. Vincent and the Grenadines"
+
+#~ msgid "Populaton:"
+#~ msgstr "Population:"
+
+#~ msgid "Queda al noroste"
+#~ msgstr "Queda al noroste"
+
+#~ msgid "Is. Georgias del Sur"
+#~ msgstr "Is. Georgias del Sur"
+
+#~ msgid "Is. Bequia"
+#~ msgstr "Is. Bequia"
+
+#~ msgid "Is. Quatre"
+#~ msgstr "Is. Quatre"
+
+#~ msgid "Is. Mustique"
+#~ msgstr "Is. Mustique"
+
+#~ msgid "Is. Bettowia"
+#~ msgstr "Is. Bettowia"
+
+#~ msgid "Is. Baliceaux"
+#~ msgstr "Is. Baliceaux"
+
+#~ msgid "Is. Pillories"
+#~ msgstr "Is. Pillories"
+
+#, fuzzy
+#~ msgid "Is. Petit Mustique"
+#~ msgstr "Petit Mustique"
+
+#~ msgid "Is. Savan"
+#~ msgstr "Is. Savan"
+
+#~ msgid "Is. Petit Canouan"
+#~ msgstr "Is. Petit Canouan"
+
+#~ msgid "Is. Canouan"
+#~ msgstr "Is. Canouan"
+
+#~ msgid "Is. Mayreau"
+#~ msgstr "Is. Mayreau"
+
+#~ msgid "Is. Union"
+#~ msgstr "Is. Union"
+
+#~ msgid "Is. Prune"
+#~ msgstr "Is. Prune"
+
+#~ msgid "Is. Petit Saint Vicent"
+#~ msgstr "Is. Petit Saint Vicent"
+
+#, python-format
+#~ msgid "the island of %s"
+#~ msgstr "the island of %s"
+
+#~ msgid "Bequia"
+#~ msgstr "Bequia"
+
+#~ msgid "Quatre"
+#~ msgstr "Quatre"
+
+#~ msgid "Mustique"
+#~ msgstr "Mustique"
+
+#~ msgid "Bettowia"
+#~ msgstr "Bettowia"
+
+#~ msgid "Baliceaux"
+#~ msgstr "Baliceaux"
+
+#~ msgid "Pillories"
+#~ msgstr "Pillories"
+
+#~ msgid "Petit Mustique"
+#~ msgstr "Petit Mustique"
+
+#~ msgid "Savan"
+#~ msgstr "Savan"
+
+#~ msgid "Petit Canouan"
+#~ msgstr "Petit Canouan"
+
+#~ msgid "Canouan"
+#~ msgstr "Canouan"
+
+#~ msgid "Mayreau"
+#~ msgstr "Mayreau"
+
+#~ msgid "Union"
+#~ msgstr "Union"
+
+#~ msgid "Prune"
+#~ msgstr "Prune"
+
+#~ msgid "Petit Saint Vicent"
+#~ msgstr "Petit Saint Vicent"
+
+#~ msgid "Queda en Maldonado"
+#~ msgstr "Queda en Maldonado"
+
+#~ msgid "Queda en Tacuarembó"
+#~ msgstr "Queda en Tacuarembó"
+
+#~ msgid "Queda en Canelones"
+#~ msgstr "Queda en Canelones"
+
+#~ msgid "Queda en Artigas"
+#~ msgstr "Queda en Artigas"
+
+#~ msgid "Queda en Salto"
+#~ msgstr "Queda en Salto"
+
+#~ msgid "Queda en Soriano"
+#~ msgstr "Queda en Soriano"
+
+#~ msgid "Queda en Colonia"
+#~ msgstr "Queda en Colonia"
+
+#~ msgid "Queda en Rocha"
+#~ msgstr "Queda en Rocha"
+
+#~ msgid "Queda en Treinta y Tres"
+#~ msgstr "Queda en Treinta y Tres"
+
+#~ msgid "Queda contra Brasil"
+#~ msgstr "Queda contra Brasil"
+
+#~ msgid "Queda en Cerro Largo"
+#~ msgstr "Queda en Cerro Largo"
+
+#~ msgid "Queda en Río Negro"
+#~ msgstr "Queda en Río Negro"
+
+#~ msgid "Queda en Paysandú"
+#~ msgstr "Queda en Paysandú"
+
+#~ msgid "Queda en Lavalleja"
+#~ msgstr "Queda en Lavalleja"
+
+#~ msgid "Queda en San José"
+#~ msgstr "Queda en San José"
+
+#~ msgid "Queda en Rivera"
+#~ msgstr "Queda en Rivera"
+
+#~ msgid "Queda en Durazno"
+#~ msgstr "Queda en Durazno"
+
+#~ msgid "Queda bien al norte"
+#~ msgstr "Queda bien al norte"
+
+#~ msgid "Queda en el límite con Brasil"
+#~ msgstr "Queda en el límite con Brasil"
+
+#~ msgid "Queda bien al este"
+#~ msgstr "Queda bien al este"
+
+#~ msgid "Cnel. Oviedo"
+#~ msgstr "Coronel Oviedo"
+
+#~ msgid "Gulf San Matias"
+#~ msgstr "Gulf San Matias"
+
+#~ msgid "Is. Victoria"
+#~ msgstr "Is. Victoria"
+
+#~ msgid "Is. de Baffin"
+#~ msgstr "Baffin Island"
+
+#~ msgid "Is. Ellesmere"
+#~ msgstr "Ellesmere Island"
+
+#~ msgid "Groenlandia"
+#~ msgstr "Greenland"
+
+#~ msgid "Is. Newfoundland"
+#~ msgstr "Newfoundland"
+
+#~ msgid "Artic Ocean"
+#~ msgstr "Arctic Ocean"
+
+#~ msgid "Queda suroeste"
+#~ msgstr "Queda suroeste"
+
+#, fuzzy
+#~ msgid "Canadá"
+#~ msgstr "Canada"
+
+#~ msgid "Is. Revillagigedo"
+#~ msgstr "Is. Revillagigedo"
+
+#~ msgid "Is. Baffin"
+#~ msgstr "Baffin Island"
+
+#~ msgid "Is. Banks"
+#~ msgstr "Banks Island"
+
+#~ msgid "Is. Elizabeth"
+#~ msgstr "Elizabeth Island"
+
+#~ msgid "Davis Strait"
+#~ msgstr "Davis Strait"
+
+#~ msgid "the Banks Island"
+#~ msgstr "Banks Island"

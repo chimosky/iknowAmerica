@@ -17662,3 +17662,279 @@ msgstr "Bolivia"
 msgid "Lake Poopo"
 msgstr ""
 
+#~ msgid "2.780.400 km² (8th)"
+#~ msgstr "2.780.400 km² (8.)"
+
+#~ msgid "9.984.670 km² (2nd)"
+#~ msgstr "9.984.670 km² (2.)"
+
+#~ msgid "USD 1.151 billion (181th)"
+#~ msgstr "USD 1.151 milliarder (181.)"
+
+#, fuzzy
+#~ msgid "USD 2.788 billion (158th)"
+#~ msgstr "USD 3.082 milliarder (158.)"
+
+#~ msgid "8.514.877 km² (5th)"
+#~ msgstr "8.514.877 km² (5.)"
+
+#~ msgid "22.966 km² (151th)"
+#~ msgstr "22.966 km² (151.)"
+
+#~ msgid "1.098.581 km² (27th)"
+#~ msgstr "1.098.581 km² (27.)"
+
+#, fuzzy
+#~ msgid "USD 268.278 billion (37th)"
+#~ msgstr "USD 350.276 milliarder (31.)"
+
+#, fuzzy
+#~ msgid "USD 337.979 billion (33th)"
+#~ msgstr "USD 350.276 milliarder (31.)"
+
+#~ msgid "High - 0,696 (75th)"
+#~ msgstr "Høj - 0,696 (75.)"
+
+#, fuzzy
+#~ msgid "USD 59.133 billion (69th)"
+#~ msgstr "USD 35.173 milliarder (98.)"
+
+#, fuzzy
+#~ msgid "USD 23.837 billion (100th)"
+#~ msgstr "USD 2.812 milliarder (161.)"
+
+#~ msgid "High - 0,736 (59th)"
+#~ msgstr "Høj - 0,736 (59.)"
+
+#~ msgid "40.091.359 (32nd)"
+#~ msgstr "40.091.359 (32.)"
+
+#, fuzzy
+#~ msgid "USD 474.812 billion (25th)"
+#~ msgstr "USD 48.804 milliarder (85.)"
+
+#~ msgid "34.124.781 (37th)"
+#~ msgstr "34.124.781 (37.)"
+
+#~ msgid "USD 110.800 billion (65th)"
+#~ msgstr "USD 110.800 milliarder (65.)"
+
+#, fuzzy
+#~ msgid "USD 18.18 billion (108th)"
+#~ msgstr "USD 11.056 milliarder (138.)"
+
+#~ msgid "Medium - 0,604 (106th)"
+#~ msgstr "Mellem - 0,604 (106.)"
+
+#, fuzzy
+#~ msgid "USD 49.716 billion (78th)"
+#~ msgstr "USD 11.056 milliarder (138.)"
+
+#, fuzzy
+#~ msgid "USD 34.819 billion (89th)"
+#~ msgstr "USD 52.885 milliarder (84.)"
+
+#, fuzzy
+#~ msgid "USD 15653.366 billion (1st)"
+#~ msgstr "USD 1.658.197 milliarder (11.)"
+
+#~ msgid "13 of august of 1898 "
+#~ msgstr "13. august 1898 "
+
+#~ msgid "USD 96.260 billion (--th)"
+#~ msgstr "USD 96.260 milliarder (--.)"
+
+#, fuzzy
+#~ msgid "USD 1162.891 billion (14th)"
+#~ msgstr "USD 1.658.197 milliarder (11.)"
+
+#, fuzzy
+#~ msgid "USD 50.296 billion (77th)"
+#~ msgstr "USD 350.276 milliarder (31.)"
+
+#, fuzzy
+#~ msgid "USD 26.089billion (96th)"
+#~ msgstr "USD 2.046 milliarder (166.)"
+
+#, fuzzy
+#~ msgid "USD 15.262 billion (116th)"
+#~ msgstr "USD 2.046 milliarder (166.)"
+
+#~ msgid "High - 0,688 (80th)"
+#~ msgstr "Høj - 0,688 (80.)"
+
+#, fuzzy
+#~ msgid "USD 44.884 billion (80th)"
+#~ msgstr "USD 48.804 milliarder (85.)"
+
+#, fuzzy
+#~ msgid "USD 200.292 billion (50th)"
+#~ msgstr "USD 404.995 milliarder (27.)"
+
+#~ msgid "High - 0,723 (63th)"
+#~ msgstr "Høj - 0,723 (63.)"
+
+#~ msgid "542.000 (171th)"
+#~ msgstr "542.000 (171.)"
+
+#, fuzzy
+#~ msgid "USD 5.094 billion (147th)"
+#~ msgstr "USD 2.046 milliarder (166.)"
+
+#~ msgid "Medium - 0,646 (94th)"
+#~ msgstr "Mellem - 0,646 (94.)"
+
+#, fuzzy
+#~ msgid "USD 7.828 billion (138th)"
+#~ msgstr "USD 3.082 milliarder (158.)"
+
+#~ msgid "Medium - 0,611 (104th)"
+#~ msgstr "Mellem - 0,611 (104.)"
+
+#, fuzzy
+#~ msgid "USD 23.985 billion (99th)"
+#~ msgstr "USD 47.980 milliarder (87.)"
+
+#, fuzzy
+#~ msgid "USD 0.717 billion (181st)"
+#~ msgstr "USD 751 milliarder (181.)"
+
+#~ msgid "190.732.694 (5th)"
+#~ msgstr "190.732.694 (5.)"
+
+#, fuzzy
+#~ msgid "USD 2425.052 billion (7th)"
+#~ msgstr "USD 73.022 milliarder (79.)"
+
+#, fuzzy
+#~ msgid "USD 7.895 billion (137th)"
+#~ msgstr "USD 2.812 milliarder (161.)"
+
+#, fuzzy
+#~ msgid "USD 70.836 billion (67th)"
+#~ msgstr "USD 110.800 milliarder (65.)"
+
+#~ msgid "Sir Colville Young"
+#~ msgstr "Sir Colville Young"
+
+#~ msgid "372.000 (170th)"
+#~ msgstr "372.000 (170.)"
+
+#, fuzzy
+#~ msgid "USD 1.52 billions (167th)"
+#~ msgstr "USD 1.151 milliarder (181.)"
+
+#~ msgid "High - 0,694 (78th)"
+#~ msgstr "Høj - 0,694 (78.)"
+
+#~ msgid "10.426.160 (87th)"
+#~ msgstr "10.426.160 (87.)"
+
+#, fuzzy
+#~ msgid "USD 26.749 billion (94th)"
+#~ msgstr "USD 299.648 milliarder (41.)"
+
+#~ msgid "High - 0,783 (45th)"
+#~ msgstr "Høj - 0,783 (45.)"
+
+#~ msgid "Medium - 0,783 (88th)"
+#~ msgstr "Mellem - 0,783 (88.)"
+
+#~ msgid "High - 0,775 (46th)"
+#~ msgstr "Høj - 0,775 (46.)"
+
+#~ msgid "High - 0,760 (53th)"
+#~ msgstr "Høj - 0,760 (53.)"
+
+#~ msgid "High - 0,755 (54th)"
+#~ msgstr "Høj - 0,755 (54.)"
+
+#~ msgid "High - 0,750 (56th)"
+#~ msgstr "Høj - 0,750 (56.)"
+
+#~ msgid "Medium - 0,560 (116th)"
+#~ msgstr "Mellem - 0,560 (116.)"
+
+#~ msgid "Medium - 0,640 (96th)"
+#~ msgstr "Mellem - 0,640 (96.)"
+
+#~ msgid "High - 0,725 (62th)"
+#~ msgstr "Høj - 0,725 (62.)"
+
+#~ msgid "Medium - 0,565 (115th)"
+#~ msgstr "Mellem - 0,565 (115.)"
+
+#~ msgid "Medium - 0,659 (90th)"
+#~ msgstr "Mellem - 0,659 (90.)"
+
+#~ msgid "High - 0,689 (79th)"
+#~ msgstr "Høj - 0,689 (79.)"
+
+#~ msgid "High - 0,699 (73th)"
+#~ msgstr "Høj - 0,699 (73.)"
+
+#~ msgid "High - 0,695 (77th)"
+#~ msgstr "Høj - 0,695 (77.)"
+
+#~ msgid "Medium - 0,643 (95th)"
+#~ msgstr "Mellem - 0,643 (95.)"
+
+#~ msgid "USD 642.402 billion (22nd)"
+#~ msgstr "USD 642.402 milliarder (22.)"
+
+#~ msgid "USD 2.172 trillion (5th)"
+#~ msgstr "USD 2.172 billioner (5.)"
+
+#~ msgid "USD 1.996.753 billion (13th)"
+#~ msgstr "USD 1.996.753 milliarder (13.)"
+
+#~ msgid "USD 93.095 billion (71th)"
+#~ msgstr "USD 93.095 milliarder (71.)"
+
+#~ msgid "USD 119.827 billion (--th)"
+#~ msgstr "USD 119.827 milliarder (--.)"
+
+#~ msgid "USD 11.145 billion (88th)"
+#~ msgstr "USD 11.145 milliarder (88.)"
+
+#~ msgid "USD 11.690 billion (131st)"
+#~ msgstr "USD 11.690 milliarder (131.)"
+
+#~ msgid "USD 18.533 billion (123th)"
+#~ msgstr "USD 18.533 milliarder (123.)"
+
+#~ msgid "USD 30.943 billion (102th)"
+#~ msgstr "USD 30.943 milliarder (102.)"
+
+#~ msgid "USD 26.536 billion (115th)"
+#~ msgstr "USD 26.536 milliarder (115.)"
+
+#~ msgid "USD 51.209 billion (86th)"
+#~ msgstr "USD 51.209 milliarder (86.)"
+
+#~ msgid "High - 0,765 (52th)"
+#~ msgstr "Høj - 0,765 (52.)"
+
+#~ msgid "About I know America"
+#~ msgstr "Om Jeg kender Amerika"
+
+#~ msgid "Next page >>>"
+#~ msgstr "Næste side >>>"
+
+#~ msgid "We have to look"
+#~ msgstr "Vi er nødt til at se"
+
+#, fuzzy
+#~ msgid "No, this is not"
+#~ msgstr "Nej, dette er ikke"
+
+#, fuzzy
+#~ msgid "Here it is not"
+#~ msgstr "Det her er ikke"
+
+#, fuzzy
+#~ msgid "It seems that this is not"
+#~ msgstr "Det ser ikke sådan ud"
+
+#~ msgid "English and French"
+#~ msgstr "Engelsk og fransk"

@@ -17461,3 +17461,6 @@ msgstr ""
 msgid "Lake Poopo"
 msgstr ""
 
+#, fuzzy
+#~ msgid "13 of august of 1898 "
+#~ msgstr "25 srpna 1825"

@@ -17717,3 +17717,355 @@ msgstr "Boliviano"
 msgid "Lake Poopo"
 msgstr "Poopo qucha"
 
+#~ msgid "756.096 km² (38th)"
+#~ msgstr "756.096 km² (38º)"
+
+#~ msgid "916.445 km² (33th)"
+#~ msgstr "916.445 km² (33º)"
+
+#~ msgid "48.442 km² (131th)"
+#~ msgstr "48.442 km² (131º)"
+
+#~ msgid "10.090.000 (80th)"
+#~ msgstr "10.090.000 (80º)"
+
+#~ msgid "5.128 km² (172th)"
+#~ msgstr "5.128 km² (172º)"
+
+#~ msgid "2.780.400 km² (8th)"
+#~ msgstr "2.780.400 km² (8º)"
+
+#~ msgid "9.984.670 km² (2nd)"
+#~ msgstr "9.984.670 km² (2º)"
+
+#~ msgid "GPD:"
+#~ msgstr "PBI nisqan:"
+
+#~ msgid "110.860 km² (105th)"
+#~ msgstr "110.860 km² (105º)"
+
+#~ msgid "11.242.621 (71th)"
+#~ msgstr "11.242.621 (71º)"
+
+#~ msgid "112.492 km² (102th)"
+#~ msgstr "112.492 km² (102º)"
+
+#~ msgid "176.215 km² (90th)"
+#~ msgstr "176.215 km² (90º)"
+
+#~ msgid "78.200 km² (118th)"
+#~ msgstr "78.200 km² (118vo)"
+
+#~ msgid "9.826.675 km² (3rd)"
+#~ msgstr "9.826.675 km² (3º)"
+
+#~ msgid "9.104 km² (170th)"
+#~ msgstr "9.104 km² (170º)"
+
+#~ msgid "3.725.789 (127th)"
+#~ msgstr "3.725.789 (127º)"
+
+#~ msgid "1.972.550 km² (14th)"
+#~ msgstr "1.972.550 km² (14º)"
+
+#~ msgid "108.889 km² (106th)"
+#~ msgstr "108.889 km² (106º)"
+
+#~ msgid "406.752 km² (59th)"
+#~ msgstr "406.752 km² (59º)"
+
+#~ msgid "10.991 km² (166th)"
+#~ msgstr "10.991 km² (166º)"
+
+#~ msgid "51.100 km² (129th)"
+#~ msgstr "51.100 km² (129º)"
+
+#~ msgid "4.615.518 (115th)"
+#~ msgstr "4.615.518 (115º)"
+
+#~ msgid "1.285.216 km² (20th)"
+#~ msgstr "1.285.216 km² (20º)"
+
+#~ msgid "163.820 km² (91th)"
+#~ msgstr "163.820 km² (91º)"
+
+#~ msgid "86.504 km² (112th)"
+#~ msgstr "86.504 km² (112º)"
+
+#~ msgid "USD 1.151 billion (181th)"
+#~ msgstr "US$ 1.151 hunu (181º)"
+
+#~ msgid "129.494 km² (97th)"
+#~ msgstr "129.494 km² (97º)"
+
+#~ msgid "214.970 km² (81th)"
+#~ msgstr "214.970 km² (81º)"
+
+#~ msgid "USD 2.788 billion (158th)"
+#~ msgstr "US$ 2.788 hunu (158º)"
+
+#~ msgid "21.041 km² (152th)"
+#~ msgstr "21.041 km² (152º)"
+
+#~ msgid "389 km² (206th)"
+#~ msgstr "389 km² (206º)"
+
+#~ msgid "1.141.748 km² (26th)"
+#~ msgstr "1.141.748 km² (26º)"
+
+#~ msgid "8.514.877 km² (5th)"
+#~ msgstr "8.514.877 km² (5º)"
+
+#~ msgid "27.750 km² (147th)"
+#~ msgstr "27.750 km² (147º)"
+
+#~ msgid "256.370 km² (71th)"
+#~ msgstr "256.370 km² (71º)"
+
+#~ msgid "22.966 km² (151th)"
+#~ msgstr "22.966 km² (151vo)"
+
+#~ msgid "1.098.581 km² (27th)"
+#~ msgstr "1.098.581 km² (27º)"
+
+#~ msgid "17.248.450 (59th)"
+#~ msgstr "17.248.450 (59º)"
+
+# Hunu = millón = el plural -kuna es opcional
+#~ msgid "USD 268.278 billion (37th)"
+#~ msgstr "US$ 268.278 hunu (37º)"
+
+#~ msgid "Jorge Arreaza"
+#~ msgstr "Jorge Arreaza"
+
+#~ msgid "28.892.735 (41th)"
+#~ msgstr "28.892.735 (41º)"
+
+#~ msgid "USD 337.979 billion (33th)"
+#~ msgstr "US$ 337.979 hunu (33º)"
+
+#~ msgid "High - 0,696 (75th)"
+#~ msgstr "Hanan - 0.696 (75º)"
+
+#~ msgid "USD 59.133 billion (69th)"
+#~ msgstr "US$ 59.133 hunu (69º)"
+
+# Kamla Persad-Bissessar ya no es primer ministro
+#~ msgid "Kamla Persad-Bissessar"
+#~ msgstr "Keith Christopher Rowley"
+
+#~ msgid "1.299.953 (153th)"
+#~ msgstr "1.299.953 (153º)"
+
+#~ msgid "USD 23.837 billion (100th)"
+#~ msgstr "US$ 23.837 hunu (100º)"
+
+#~ msgid "High - 0,736 (59th)"
+#~ msgstr "Hanan - 0,736 (59º)"
+
+#~ msgid "Cristina Fernández"
+#~ msgstr "Cristina Fernández"
+
+# Vicepresidente de la Nación Argentina
+#~ msgid "Amado Boudou"
+#~ msgstr "Amado Boudou"
+
+#~ msgid "40.091.359 (32nd)"
+#~ msgstr "40.091.359 (32º)"
+
+#~ msgid "USD 474.812 billion (25th)"
+#~ msgstr "US$ 474.812 hunu (25º)"
+
+#~ msgid "34.124.781 (37th)"
+#~ msgstr "34.124.781 (37º)"
+
+#~ msgid "USD 1770.084 billion (11st)"
+#~ msgstr "US$ 1770.084 hunu (11º)"
+
+#~ msgid "USD 110.800 billion (65th)"
+#~ msgstr "US$ 110.800 hunu (65º)"
+
+# Su mandato comenzó el 27 de enero de 2014 y finaliza el 27 de enero de 2018.
+#~ msgid "Porfirio Lobo"
+#~ msgstr "Juan Orlando Hernández Alvarado"
+
+#~ msgid "8.144.000 (93th)"
+#~ msgstr "8.144.000 (93º)"
+
+#~ msgid "USD 18.18 billion (108th)"
+#~ msgstr "US$ 18.180 hunu (108º)"
+
+#~ msgid "Medium - 0,604 (106th)"
+#~ msgstr "Kuskan - 0,604 (106º)"
+
+#~ msgid "3.424.595 (128th)"
+#~ msgstr "3.424.595 (128º)"
+
+#~ msgid "USD 49.716 billion (78th)"
+#~ msgstr "US$ 49.716 hunu (78º)"
+
+#~ msgid "3.405.813 (129th)"
+#~ msgstr "3.405.813 (129vo)"
+
+#~ msgid "USD 34.819 billion (89th)"
+#~ msgstr "US$ 34.819 hunu (89º)"
+
+#~ msgid "308.745.538 (3rd)"
+#~ msgstr "308.745.538 (3º)"
+
+#~ msgid "USD 15653.366 billion (1st)"
+#~ msgstr "US$ 15653.366 hunu (1º)"
+
+#~ msgid "13 of august of 1898 "
+#~ msgstr "Haqay 1898 watapi awustu killap 13 p'unchawninpi"
+
+#~ msgid "USD 96.260 billion (--th)"
+#~ msgstr "US$ 96.260 hunu (--th)"
+
+#~ msgid "112.322.757 (11th)"
+#~ msgstr "112.322.757 (11º)"
+
+#~ msgid "USD 1162.891 billion (14th)"
+#~ msgstr "US$ 1162.891 hunu (14º)"
+
+# El vicepresidente, Alejandro Maldonado, asumió la presidencia guatemalteca ante el Congreso, mientras Otto Pérez comparecía ante un juez para responder por los cargos de corrupción en su contra.
+#~ msgid "Otto Pérez Molina"
+#~ msgstr "Alejandro Maldonado"
+
+# Ahora el vicepresidente es Juan Alfonso Fuentes Soria
+#~ msgid "Roxana Baldetti"
+#~ msgstr "Juan Alfonso Fuentes Soria"
+
+#~ msgid "13.718.000 (67th)"
+#~ msgstr "13.718.000 (67º)"
+
+#~ msgid "USD 50.296 billion (77th)"
+#~ msgstr "US$ 50.296 hunu (77º)"
+
+#~ msgid "6.459.000 (103th)"
+#~ msgstr "6.459.000 (103º)"
+
+#~ msgid "USD 26.089billion (96th)"
+#~ msgstr "US$ 26.089 hunu (96º)"
+
+#~ msgid "2.735.520 (131st)"
+#~ msgstr "2.735.520 (131º)"
+
+#~ msgid "USD 15.262 billion (116th)"
+#~ msgstr "US$ 15.262 hunu (116º)"
+
+#~ msgid "High - 0,688 (80th)"
+#~ msgstr "Hanan - 0,688 (80vo)"
+
+#~ msgid "USD 44.884 billion (80th)"
+#~ msgstr "US$ 44.884 hunu (80º)"
+
+# Juan Jiménez Mayor, ya fue.
+#~ msgid "Juan Jiménez Mayor"
+#~ msgstr "Pedro Cateriano"
+
+#~ msgid "30.165.000 (40th)"
+#~ msgstr "30.165.000 (40º)"
+
+#~ msgid "USD 200.292 billion (50th)"
+#~ msgstr "US$ 200.292 hunu (50º)"
+
+# Alto - 0,723 (63º)
+#~ msgid "High - 0,723 (63th)"
+#~ msgstr "Hanan - 0,723 (63º)"
+
+# Cambio de Vicepresidente en el segundo mandato de Desi Bouterse
+#~ msgid "Robert Ameerali"
+#~ msgstr "Ashwin Adhin"
+
+#~ msgid "542.000 (171th)"
+#~ msgstr "542.000 (171º)"
+
+#~ msgid "USD 5.094 billion (147th)"
+#~ msgstr "US$ 5.094 hunu (147º)"
+
+#~ msgid "Medium - 0,646 (94th)"
+#~ msgstr "Kuskan - 0,646 (94º)"
+
+#~ msgid "230.000 (187th)"
+#~ msgstr "230.000 (187º)"
+
+#~ msgid "-- (--th)"
+#~ msgstr "-- (--º)"
+
+#~ msgid "5.465.100 (108th)"
+#~ msgstr "5.465.100 (108º)"
+
+#~ msgid "USD 7.828 billion (138th)"
+#~ msgstr "US$ 7.828 hunu (138º)"
+
+# David Granger es el presidente actual
+#~ msgid "Donald Ramotar"
+#~ msgstr "David Granger"
+
+# El primer ministro ya no es Sam Hinds
+#~ msgid "Sam Hinds"
+#~ msgstr "Moses Nagamootoo"
+
+#~ msgid "784.894 (161th)"
+#~ msgstr "784.894 (161º)"
+
+#~ msgid "Medium - 0,611 (104th)"
+#~ msgstr "Kuskan - 0,611 (104º)"
+
+#~ msgid "5.744.113 (97th)"
+#~ msgstr "5.744.113 (97º)"
+
+#~ msgid "USD 23.985 billion (99th)"
+#~ msgstr "US$ 23.985 hunu (99º)"
+
+#~ msgid "100.369 (193rd)"
+#~ msgstr "100.369 (193º)"
+
+#~ msgid "USD 0.717 billion (181st)"
+#~ msgstr "US$ 717 hunu (181º)"
+
+#~ msgid "Medium - 0,791 (93rd)"
+#~ msgstr "Kuskan - 0,791 (93º)"
+
+#~ msgid "45.925.397 (28th)"
+#~ msgstr "45.925.397 (28º)"
+
+#~ msgid "USD 365.402 billion (31st)"
+#~ msgstr "US$ 365.402 hunu (31º)"
+
+#~ msgid "190.732.694 (5th)"
+#~ msgstr "190.732.694 (5º)"
+
+#~ msgid "USD 2425.052 billion (7th)"
+#~ msgstr "US$ 2425.052 hunu (7º)"
+
+#~ msgid "9.800.000 (90th)"
+#~ msgstr "9.800.000 (90º)"
+
+#~ msgid "USD 7.895 billion (137th)"
+#~ msgstr "US$ 7.895 hunu (137º)"
+
+#~ msgid "14.306.876 (--th)"
+#~ msgstr "14.306.876 (--º)"
+
+#~ msgid "USD 70.836 billion (67th)"
+#~ msgstr "US$ 70.836 hunu (67º)"
+
+#~ msgid "Sir Colville Young"
+#~ msgstr "Sir Colville Young"
+
+#~ msgid "372.000 (170th)"
+#~ msgstr "372.000 (170vo)"
+
+#~ msgid "USD 1.52 billions (167th)"
+#~ msgstr "US$ 1.520 hunu (167º)"
+
+#~ msgid "High - 0,694 (78th)"
+#~ msgstr "Hanan - 0,694 (78vo)"
+
+#~ msgid "10.426.160 (87th)"
+#~ msgstr "10.426.160 (87º)"
+
+#~ msgid "USD 26.749 billion (94th)"
+#~ msgstr "US$ 26.749 hunu (94º)"

@@ -4715,7 +4715,6 @@ msgid "66.575"
 msgstr "66.575"
 
 #: recursos/0dominicana/datos/0dominicana.py:122
-
 #: recursos/0costarica/datos/0costarica.py:159
 msgid "69th"
 msgstr "69º"
@@ -17471,3 +17470,573 @@ msgstr "Boliviano"
 msgid "Lake Poopo"
 msgstr "Lago Poopó"
 
+#~ msgid "756.096 km² (38th)"
+#~ msgstr "756.096 km² (38º)"
+
+#~ msgid "18.006.407 (62nd)"
+#~ msgstr "18.006.407 (62º)"
+
+#~ msgid "USD 410.277 billion (42nd)"
+#~ msgstr "U$S 410.277 millones (42º)"
+
+#~ msgid "916.445 km² (33th)"
+#~ msgstr "916.445 km² (33º)"
+
+#~ msgid "30.933.000 (44th)"
+#~ msgstr "30.933.000 (44º)"
+
+#~ msgid "USD 131.855 billion (33th)"
+#~ msgstr "USD 131.855 millones (33º)"
+
+#~ msgid "48.442 km² (131th)"
+#~ msgstr "48.442 km² (131º)"
+
+#~ msgid "10.090.000 (80th)"
+#~ msgstr "10.090.000 (80º)"
+
+#~ msgid "USD 66.575 billion (69th)"
+#~ msgstr "USD 66.575 millones (69º)"
+
+#~ msgid "5.128 km² (172th)"
+#~ msgstr "5.128 km² (172º)"
+
+#~ msgid "1.223.916 (159th)"
+#~ msgstr "1.223.916 (159º)"
+
+#~ msgid "USD 28.788 billion (100th)"
+#~ msgstr "USD 28.788 millones (100º)"
+
+#~ msgid "2.780.400 km² (8th)"
+#~ msgstr "2.780.400 km² (8º)"
+
+#~ msgid "43.417.000 (32nd)"
+#~ msgstr "43.417.000 (32º)"
+
+#~ msgid "USD 964.279 billion (25th)"
+#~ msgstr "USD 96.260 millones (25º)"
+
+#~ msgid "9.984.670 km² (2nd)"
+#~ msgstr "9.984.670 km² (2º)"
+
+#~ msgid "36.048.521 (37th)"
+#~ msgstr "36.048.521 (37º)"
+
+# PIB:
+#~ msgid "GPD:"
+#~ msgstr "PIB:"
+
+#~ msgid "USD 1628.000 billion (15th)"
+#~ msgstr "USD 1628.000 millones (15º)"
+
+#~ msgid "110.860 km² (105th)"
+#~ msgstr "110.860 km² (105º)"
+
+#~ msgid "11.242.621 (71th)"
+#~ msgstr "11.242.621 (71º)"
+
+#~ msgid "USD 78.694 billion (64th)"
+#~ msgstr "USD 78.694 millones (64º)"
+
+#~ msgid "112.492 km² (102th)"
+#~ msgstr "112.492 km² (102º)"
+
+#~ msgid "8.249.574 (94th)"
+#~ msgstr "8.249.574 (94º)"
+
+#~ msgid "USD 19.567 billion (108th)"
+#~ msgstr "USD 19.567 millones (108º)"
+
+#~ msgid "176.215 km² (90th)"
+#~ msgstr "176.215 km² (90º)"
+
+#~ msgid "3.324.460 (133rd)"
+#~ msgstr "3.324.460 (133º)"
+
+#~ msgid "USD 54.968 billion (78th)"
+#~ msgstr "USD 54.968 millones (78º)"
+
+#~ msgid "78.200 km² (118th)"
+#~ msgstr "78.200 km² (118vo)"
+
+#~ msgid "3.929.141 (129th)"
+#~ msgstr "3.929.141 (129º)"
+
+#~ msgid "USD 49.142 billion (89th)"
+#~ msgstr "USD 49.142 millones (89º)"
+
+#~ msgid "9.826.675 km² (3rd)"
+#~ msgstr "9.826.675 km² (3º)"
+
+#~ msgid "322.369.319 (3rd)"
+#~ msgstr "322.369.319 (3º)"
+
+#~ msgid "USD 17419.000 billion (2st)"
+#~ msgstr "USD17419.000 millones (2º)"
+
+#~ msgid "9.104 km² (170th)"
+#~ msgstr "9.104 km² (170º)"
+
+#~ msgid "3.725.789 (127th)"
+#~ msgstr "3.725.789 (127º)"
+
+#~ msgid "USD 105.100 billion (60th)"
+#~ msgstr "USD 105.100 millones (60º)"
+
+#~ msgid "1.972.550 km² (14th)"
+#~ msgstr "1.972.550 km² (14º)"
+
+#~ msgid "119.530.753 (11st)"
+#~ msgstr "119.530.753 (11º)"
+
+#~ msgid "USD 1.232.000 billion (13th)"
+#~ msgstr "USD 110.800 millones (65º)"
+
+#~ msgid "108.889 km² (106th)"
+#~ msgstr "108.889 km² (106º)"
+
+#~ msgid "15.806.675 (66th)"
+#~ msgstr "15.806.675 (66º)"
+
+#~ msgid "USD 66.037 billion (77th)"
+#~ msgstr "USD 66.037 millones (77º)"
+
+#~ msgid "406.752 km² (59th)"
+#~ msgstr "406.752 km² (59º)"
+
+#~ msgid "7.012.433 (104th)"
+#~ msgstr "7.012.433 (104º)"
+
+#~ msgid "USD 30.754 billion (99th)"
+#~ msgstr "USD 30.754 millones (99º)"
+
+#~ msgid "10.991 km² (166th)"
+#~ msgstr "10.991 km² (166º)"
+
+#~ msgid "2.950.210 (139th)"
+#~ msgstr "2.950.210 (139º)"
+
+#~ msgid "USD 15.569 billion (116th)"
+#~ msgstr "USD 15.569 millones (116º)"
+
+#~ msgid "51.100 km² (129th)"
+#~ msgstr "51.100 km² (129º)"
+
+#~ msgid "4.615.518 (115th)"
+#~ msgstr "4.615.518 (115º)"
+
+#~ msgid "USD 74.324 billion (80th)"
+#~ msgstr "USD 44.884 millones (80º)"
+
+#~ msgid "1.285.216 km² (20th)"
+#~ msgstr "1.285.216 km² (20º)"
+
+#~ msgid "31.151.643 (40th)"
+#~ msgstr "31.151.643 (40º)"
+
+#~ msgid "USD 217.607 billion (50th)"
+#~ msgstr "USD 200.292 millones (50º)"
+
+#~ msgid "163.820 km² (91th)"
+#~ msgstr "163.820 km² (91º)"
+
+#~ msgid "573.311 (167th)"
+#~ msgstr "573.311 (167º)"
+
+#~ msgid "USD 5.297 billion (147th)"
+#~ msgstr "USD 5.297 millones (147º)"
+
+#~ msgid "86.504 km² (112th)"
+#~ msgstr "86.504 km² (112º)"
+
+#~ msgid "259.109 (186th)"
+#~ msgstr "259.109 (186º)"
+
+#~ msgid "USD 1.151 billion (181th)"
+#~ msgstr "US$ 1.151 millones (181º)"
+
+#~ msgid "129.494 km² (97th)"
+#~ msgstr "129.494 km² (97º)"
+
+#~ msgid "6.071.045 (108th)"
+#~ msgstr "6.071.045 (108º)"
+
+#~ msgid "USD 12.557 billion (138th)"
+#~ msgstr "USD 182.557 millones (138º)"
+
+#~ msgid "214.970 km² (81th)"
+#~ msgstr "214.970 km² (81º)"
+
+#~ msgid "735.554 (165th)"
+#~ msgstr "735.554 (165º)"
+
+#~ msgid "USD 2.788 billion (158th)"
+#~ msgstr "US$ 2.788 millones (158º)"
+
+#~ msgid "21.041 km² (152th)"
+#~ msgstr "21.041 km² (152º)"
+
+#~ msgid "6.377.195 (99th)"
+#~ msgstr "6.377.195 (99º)"
+
+#~ msgid "USD 28.986 billion (99th)"
+#~ msgstr "USD 28.986 millones (99º)"
+
+#~ msgid "389 km² (206th)"
+#~ msgstr "389 km² (206º)"
+
+#~ msgid "103.000 (196th)"
+#~ msgstr "103.000 (196º)"
+
+#~ msgid "USD 0.695 billion (181st)"
+#~ msgstr "USD 0.695 millones (181º)"
+
+#~ msgid "1.141.748 km² (26th)"
+#~ msgstr "1.141.748 km² (26º)"
+
+#~ msgid "48.400.388 (28th)"
+#~ msgstr "48.400.388 (28º)"
+
+#~ msgid "USD 427.139 billion (29th)"
+#~ msgstr "USD 427.139 millones (29º)"
+
+#~ msgid "8.514.877 km² (5th)"
+#~ msgstr "8.514.877 km² (5º)"
+
+#~ msgid "205.338.000 (5th)"
+#~ msgstr "205.338.000 (5º)"
+
+#~ msgid "USD 1672.000 billion (9th)"
+#~ msgstr "USD 1672.000 millones (9º)"
+
+#~ msgid "27.750 km² (147th)"
+#~ msgstr "27.750 km² (147º)"
+
+#~ msgid "10.604.000 (85th)"
+#~ msgstr "10.604.000 (85º)"
+
+#~ msgid "USD 8.924 billion (137th)"
+#~ msgstr "USD 8.924 millones (137º)"
+
+#~ msgid "256.370 km² (71th)"
+#~ msgstr "256.370 km² (71º)"
+
+#~ msgid "16.144.000 (65th)"
+#~ msgstr "16.144.000 (65º)"
+
+#~ msgid "USD 100.755 billion (64th)"
+#~ msgstr "USD 110.755 millones (64º)"
+
+#~ msgid "22.966 km² (151th)"
+#~ msgstr "22.966 km² (151vo)"
+
+#~ msgid "347.369 (170th)"
+#~ msgstr "347.369 (170º)"
+
+#~ msgid "USD 1.759 billions (167th)"
+#~ msgstr "USD 1.759 millones (167º)"
+
+#~ msgid "1.098.581 km² (27th)"
+#~ msgstr "1.098.581 km² (27º)"
+
+#~ msgid "11.410.651 (83th)"
+#~ msgstr "11.410.651 (83º)"
+
+#~ msgid "USD 33.537 billion (96th)"
+#~ msgstr "USD 33.537 millones (96º)"
+
+#~ msgid "17.248.450 (59th)"
+#~ msgstr "17.248.450 (59º)"
+
+#~ msgid "USD 268.278 billion (37th)"
+#~ msgstr "US$ 268.278 millones (37º)"
+
+#~ msgid "High - 0,822 (41st)"
+#~ msgstr "Alta - 0,822 (41º)"
+
+#~ msgid "4 of february of 2015"
+#~ msgstr "4 de febrero de 2015"
+
+#~ msgid "Jorge Arreaza"
+#~ msgstr "Jorge Arreaza"
+
+#~ msgid "28.892.735 (41th)"
+#~ msgstr "28.892.735 (41º)"
+
+#~ msgid "USD 337.979 billion (33th)"
+#~ msgstr "US$ 337.979 millones (33º)"
+
+#~ msgid "High - 0,696 (75th)"
+#~ msgstr "Alto - 0.696 (75º)"
+
+#~ msgid "USD 59.133 billion (69th)"
+#~ msgstr "US$ 59.133 millones (69º)"
+
+#~ msgid "Medium - 0,700 (102nd)"
+#~ msgstr "Medio - 0,700 (102º)"
+
+#~ msgid "Kamla Persad-Bissessar"
+#~ msgstr "Kamla Persad-Bissessar"
+
+#~ msgid "1.299.953 (153th)"
+#~ msgstr "1.299.953 (153º)"
+
+#~ msgid "USD 23.837 billion (100th)"
+#~ msgstr "US$ 23.837 millones (100º)"
+
+#~ msgid "High - 0,736 (59th)"
+#~ msgstr "Alto - 0,736 (59º)"
+
+#~ msgid "Cristina Fernández"
+#~ msgstr "Cristina Fernández"
+
+#~ msgid "Amado Boudou"
+#~ msgstr "Amado Boudou"
+
+#~ msgid "40.091.359 (32nd)"
+#~ msgstr "40.091.359 (32º)"
+
+#~ msgid "USD 474.812 billion (25th)"
+#~ msgstr "US$ 474.812 millones (25º)"
+
+#~ msgid "High - 0,808 (49th)"
+#~ msgstr "Alto - 0,808 (49º)"
+
+#~ msgid "34.124.781 (37th)"
+#~ msgstr "34.124.781 (37º)"
+
+#~ msgid "USD 1770.084 billion (11st)"
+#~ msgstr "US$ 1770.084 millones (11º)"
+
+#~ msgid "Very high - 0,902 (8th)"
+#~ msgstr "Muy alto - 0,902 (8º)"
+
+#~ msgid "USD 110.800 billion (65th)"
+#~ msgstr "US$ 110.800 millones (65º)"
+
+#~ msgid "High - 0,815 (44th)"
+#~ msgstr "Alto - 0,815 (44º)"
+
+#~ msgid "Porfirio Lobo"
+#~ msgstr "Porfirio Lobo"
+
+#~ msgid "8.144.000 (93th)"
+#~ msgstr "8.144.000 (93º)"
+
+#~ msgid "USD 18.18 billion (108th)"
+#~ msgstr "US$ 18.180 millones (108º)"
+
+#~ msgid "Medium - 0,604 (106th)"
+#~ msgstr "Medio - 0,604 (106º)"
+
+#~ msgid "3.424.595 (128th)"
+#~ msgstr "3.424.595 (128º)"
+
+#~ msgid "USD 49.716 billion (78th)"
+#~ msgstr "US$ 49.716 millones (78º)"
+
+#~ msgid "High - 0,790 (50th)"
+#~ msgstr "Alto - 0,790 (50º)"
+
+#~ msgid "1 of march of 2015"
+#~ msgstr "1 de marzo de 2015"
+
+#~ msgid "3.405.813 (129th)"
+#~ msgstr "3.405.813 (129vo)"
+
+#~ msgid "USD 34.819 billion (89th)"
+#~ msgstr "US$ 34.819 millones (89º)"
+
+#~ msgid "High - 0,765 (65th)"
+#~ msgstr "Alto - 0,765 (65º)"
+
+#~ msgid "308.745.538 (3rd)"
+#~ msgstr "308.745.538 (3º)"
+
+#~ msgid "USD 15653.366 billion (1st)"
+#~ msgstr "US$ 15653.366 millones (1º)"
+
+#~ msgid "Very High - 0,915 (5th)"
+#~ msgstr "Muy Alto - 0.905 (53vo)"
+
+#~ msgid "13 of august of 1898 "
+#~ msgstr "13 de agosto de 1898 "
+
+#~ msgid "USD 96.260 billion (--th)"
+#~ msgstr "US$ 96.260 millones (--th)"
+
+#~ msgid "Very High - 0.865 (29th)"
+#~ msgstr "Muy alto - 0.865 (29º)"
+
+#~ msgid "112.322.757 (11th)"
+#~ msgstr "112.322.757 (11º)"
+
+#~ msgid "USD 1162.891 billion (14th)"
+#~ msgstr "US$ 1162.891 millones (14º)"
+
+#~ msgid "High - 0,756 (71st)"
+#~ msgstr "Alto - 0,756 (71º)"
+
+#~ msgid "Otto Pérez Molina"
+#~ msgstr "Otto Pérez Molina"
+
+#~ msgid "Roxana Baldetti"
+#~ msgstr "Roxana Baldetti"
+
+#~ msgid "13.718.000 (67th)"
+#~ msgstr "13.718.000 (67º)"
+
+#~ msgid "USD 50.296 billion (77th)"
+#~ msgstr "US$ 50.296 millones (77º)"
+
+#~ msgid "Medium - 0,628 (125th)"
+#~ msgstr "Medio - 0,628 (125º)"
+
+#~ msgid "6.459.000 (103th)"
+#~ msgstr "6.459.000 (103º)"
+
+#~ msgid "USD 26.089billion (96th)"
+#~ msgstr "US$ 26.089 millones (96º)"
+
+#~ msgid "Medium - 0,676 (111st)"
+#~ msgstr "Medio - 0,676 (111º)"
+
+#~ msgid "2.735.520 (131st)"
+#~ msgstr "2.735.520 (131º)"
+
+#~ msgid "USD 15.262 billion (116th)"
+#~ msgstr "US$ 15.262 millones (116º)"
+
+#~ msgid "High - 0,688 (80th)"
+#~ msgstr "Alto - 0,688 (80vo)"
+
+#~ msgid "USD 44.884 billion (80th)"
+#~ msgstr "US$ 44.884 millones (80º)"
+
+#~ msgid "High - 0,763 (68th)"
+#~ msgstr "Alto - 0,763 (68º)"
+
+#~ msgid "Juan Jiménez Mayor"
+#~ msgstr "Juan Jiménez Mayor"
+
+#~ msgid "30.165.000 (40th)"
+#~ msgstr "30.165.000 (40º)"
+
+#~ msgid "USD 200.292 billion (50th)"
+#~ msgstr "US$ 200.292 millones (50º)"
+
+#~ msgid "High - 0,723 (63th)"
+#~ msgstr "Alto - 0,723 (63º)"
+
+#~ msgid "Robert Ameerali"
+#~ msgstr "Robert Ameerali"
+
+#~ msgid "542.000 (171th)"
+#~ msgstr "542.000 (171º)"
+
+#~ msgid "USD 5.094 billion (147th)"
+#~ msgstr "US$ 5.094 millones (147º)"
+
+#~ msgid "Medium - 0,646 (94th)"
+#~ msgstr "Medio - 0,646 (94º)"
+
+#~ msgid "230.000 (187th)"
+#~ msgstr "230.000 (187º)"
+
+#~ msgid "-- (--th)"
+#~ msgstr "-- (--º)"
+
+#~ msgid "5.465.100 (108th)"
+#~ msgstr "5.465.100 (108º)"
+
+#~ msgid "USD 7.828 billion (138th)"
+#~ msgstr "US$ 7.828 millones (138º)"
+
+#~ msgid "Medium - 0,614 (132nd)"
+#~ msgstr "Medio - 0,614 (132º)"
+
+#~ msgid "Donald Ramotar"
+#~ msgstr "Donald Ramotar"
+
+#~ msgid "Sam Hinds"
+#~ msgstr "Sam Hinds"
+
+#~ msgid "784.894 (161th)"
+#~ msgstr "784.894 (161º)"
+
+#~ msgid "Medium - 0,611 (104th)"
+#~ msgstr "Medio - 0,611 (104º)"
+
+#~ msgid "5.744.113 (97th)"
+#~ msgstr "5.744.113 (97º)"
+
+#~ msgid "USD 23.985 billion (99th)"
+#~ msgstr "US$ 23.985 millones (99º)"
+
+#~ msgid "Medium - 0,662 (115th)"
+#~ msgstr "Medio - 0,662 (115º)"
+
+#~ msgid "100.369 (193rd)"
+#~ msgstr "100.369 (193º)"
+
+#~ msgid "USD 0.717 billion (181st)"
+#~ msgstr "US$ 717 millones (181º)"
+
+#~ msgid "Medium - 0,791 (93rd)"
+#~ msgstr "Medio - 0,791 (93º)"
+
+#~ msgid "45.925.397 (28th)"
+#~ msgstr "45.925.397 (28º)"
+
+#~ msgid "USD 365.402 billion (31st)"
+#~ msgstr "US$ 365.402 millones (31º)"
+
+#~ msgid "High - 0,711 (98th)"
+#~ msgstr "Alto - 0,711 (98º)"
+
+#~ msgid "190.732.694 (5th)"
+#~ msgstr "190.732.694 (5º)"
+
+#~ msgid "USD 2425.052 billion (7th)"
+#~ msgstr "US$ 2425.052 millones (7º)"
+
+#~ msgid "High - 0,744 (79th)"
+#~ msgstr "Alto - 0,744 (79º)"
+
+#~ msgid "Evans Paul"
+#~ msgstr "Evans Paul"
+
+#~ msgid "9.800.000 (90th)"
+#~ msgstr "9.800.000 (90º)"
+
+#~ msgid "USD 7.895 billion (137th)"
+#~ msgstr "US$ 7.895 millones (137º)"
+
+#~ msgid "Low - 0,471 (168th)"
+#~ msgstr "Bajo - 0,471 (168º)"
+
+#~ msgid "14.306.876 (--th)"
+#~ msgstr "14.306.876 (--º)"
+
+#~ msgid "USD 70.836 billion (67th)"
+#~ msgstr "US$ 70.836 millones (67º)"
+
+#~ msgid "Sir Colville Young"
+#~ msgstr "Sir Colville Young"
+
+#~ msgid "372.000 (170th)"
+#~ msgstr "372.000 (170vo)"
+
+#~ msgid "USD 1.52 billions (167th)"
+#~ msgstr "US$ 1.520 millones (167º)"
+
+#~ msgid "High - 0,694 (78th)"
+#~ msgstr "Alto - 0,694 (78vo)"
+
+#~ msgid "10.426.160 (87th)"
+#~ msgstr "10.426.160 (87º)"
+
+#~ msgid "USD 26.749 billion (94th)"
+#~ msgstr "US$ 26.749 millones (94º)"
+
+#~ msgid "Medium - 0,667 (113th)"
+#~ msgstr "Medio - 0,667 (113º)"
